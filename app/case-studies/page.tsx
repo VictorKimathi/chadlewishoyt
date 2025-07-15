@@ -9,7 +9,7 @@ const caseStudies = [
     challenge: "Outdated website and inconsistent brand messaging.",
     solution: "Developed a new content strategy, produced high-end photography, and redesigned their digital platform.",
     result: "200% increase in online engagement and significant boost in sales inquiries.",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/carhome.jpg?height=400&width=600",
     href: "/case-studies/heritage-motors",
   },
   {
@@ -19,7 +19,7 @@ const caseStudies = [
     solution:
       "Crafted a compelling narrative, managed international press events, and created immersive launch content.",
     result: "Achieved global media coverage and secured pre-orders exceeding expectations.",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/carhome.jpg?height=400&width=600",
     href: "/case-studies/volt-dynamics",
   },
   {
@@ -28,7 +28,7 @@ const caseStudies = [
     challenge: "Maximizing sponsor visibility and fan engagement through digital content.",
     solution: "Produced dynamic race photography, behind-the-scenes video series, and social media campaigns.",
     result: "Increased sponsor ROI by 30% and grew social media following by 50%.",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/carhome.jpg?height=400&width=600",
     href: "/case-studies/speedforce-racing",
   },
 ]
@@ -39,7 +39,7 @@ export default function CaseStudiesPage() {
       {/* Hero Section */}
       <section className="relative h-96 flex items-center justify-center overflow-hidden">
         <Image
-          src="/placeholder.svg?height=400&width=1920"
+          src="/carhome.jpg?height=400&width=1920"
           alt="Automotive consulting case studies"
           fill
           className="object-cover"
@@ -59,7 +59,7 @@ export default function CaseStudiesPage() {
               <article className="bg-white border border-gray-200 overflow-hidden shadow-lg transition-transform duration-300 group-hover:-translate-y-2">
                 <div className="relative h-56 overflow-hidden">
                   <Image
-                    src={study.image || "/placeholder.svg"}
+                    src={study.image || "/carhome.jpg"}
                     alt={study.title}
                     fill
                     className="object-cover transition-transform duration-500 group-hover:scale-110"

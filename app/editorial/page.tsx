@@ -6,7 +6,7 @@ const articles = [
     title: "The Future of Electric Supercars",
     excerpt:
       "Exploring how electric powertrains are revolutionizing the supercar landscape, from Tesla's Roadster to Rimac's C_Two.",
-    image: "/placeholder.svg?height=300&width=500",
+    image: "/carhome.jpg?height=300&width=500",
     date: "March 15, 2024",
     readTime: "8 min read",
     href: "/editorial/electric-supercars",
@@ -14,7 +14,7 @@ const articles = [
   {
     title: "Inside Formula 1's Technical Revolution",
     excerpt: "A deep dive into the aerodynamic innovations that are reshaping modern Formula 1 racing.",
-    image: "/placeholder.svg?height=300&width=500",
+    image: "/carhome.jpg?height=300&width=500",
     date: "February 28, 2024",
     readTime: "12 min read",
     href: "/editorial/f1-technical-revolution",
@@ -22,7 +22,7 @@ const articles = [
   {
     title: "Classic Car Restoration: Art Meets Engineering",
     excerpt: "Following master craftsmen as they bring vintage automotive legends back to life.",
-    image: "/placeholder.svg?height=300&width=500",
+    image: "/carhome.jpg?height=300&width=500",
     date: "February 10, 2024",
     readTime: "10 min read",
     href: "/editorial/classic-restoration",
@@ -30,7 +30,7 @@ const articles = [
   {
     title: "The Rise of Hypercar Culture",
     excerpt: "How limited-production hypercars are pushing the boundaries of automotive engineering and design.",
-    image: "/placeholder.svg?height=300&width=500",
+    image: "/carhome.jpg?height=300&width=500",
     date: "January 22, 2024",
     readTime: "15 min read",
     href: "/editorial/hypercar-culture",
@@ -38,7 +38,7 @@ const articles = [
   {
     title: "Sustainable Racing: The Green Revolution",
     excerpt: "Examining how motorsports are adapting to environmental challenges while maintaining competitive edge.",
-    image: "/placeholder.svg?height=300&width=500",
+    image: "/carhome.jpg?height=300&width=500",
     date: "January 8, 2024",
     readTime: "9 min read",
     href: "/editorial/sustainable-racing",
@@ -46,7 +46,7 @@ const articles = [
   {
     title: "Digital Transformation in Automotive Design",
     excerpt: "How virtual reality and AI are revolutionizing the way cars are designed and developed.",
-    image: "/placeholder.svg?height=300&width=500",
+    image: "/carhome.jpg?height=300&width=500",
     date: "December 15, 2023",
     readTime: "11 min read",
     href: "/editorial/digital-transformation",
@@ -59,7 +59,7 @@ export default function EditorialPage() {
       {/* Hero Section */}
       <section className="relative h-96 flex items-center justify-center overflow-hidden">
         <Image
-          src="/placeholder.svg?height=400&width=1920"
+          src="/carhome.jpg?height=400&width=1920"
           alt="Editorial writing and automotive journalism"
           fill
           className="object-cover"
@@ -79,7 +79,7 @@ export default function EditorialPage() {
               <article className="bg-white border border-gray-200 overflow-hidden transition-transform duration-300 group-hover:-translate-y-2">
                 <div className="relative h-48 overflow-hidden">
                   <Image
-                    src={article.image || "/placeholder.svg"}
+                    src={article.image || "/carhome.jpg"}
                     alt={article.title}
                     fill
                     className="object-cover transition-transform duration-500 group-hover:scale-110"

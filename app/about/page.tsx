@@ -7,7 +7,7 @@ export default function AboutPage() {
       {/* Hero Section */}
       <section className="relative h-96 flex items-center justify-center overflow-hidden">
         <Image
-          src="/placeholder.svg?height=400&width=1920"
+          src="/carhome.jpg?height=400&width=1920"
           alt="Chad Lewis Hoyt automotive journalist and photographer"
           fill
           className="object-cover"
@@ -26,7 +26,7 @@ export default function AboutPage() {
           <div className="relative">
             <div className="relative w-full max-w-md mx-auto">
               <Image
-                src="/placeholder.svg?height=600&width=500"
+                src="/carhome.jpg?height=600&width=500"
                 alt="Chad Lewis Hoyt portrait in automotive setting"
                 width={500}
                 height={600}

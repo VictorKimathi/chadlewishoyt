@@ -29,7 +29,7 @@ export default function ConsultingPage() {
       {/* Hero Section */}
       <section className="relative h-96 flex items-center justify-center overflow-hidden">
         <Image
-          src="/placeholder.svg?height=400&width=1920"
+          src="/carhome.jpg?height=400&width=1920"
           alt="Automotive consulting and brand strategy"
           fill
           className="object-cover"

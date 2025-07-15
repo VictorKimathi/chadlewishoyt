@@ -5,37 +5,37 @@ const categories = [
   {
     title: "RACING EVENTS",
     description: "High-octane moments from the track",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/carhome.jpg?height=400&width=600",
     href: "/portfolio/racing",
   },
   {
     title: "CLASSIC CARS",
     description: "Timeless automotive elegance",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/carhome.jpg?height=400&width=600",
     href: "/portfolio/classics",
   },
   {
     title: "EDITORIAL SHOOTS",
     description: "Professional automotive photography",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/carhome.jpg?height=400&width=600",
     href: "/portfolio/editorial",
   },
   {
     title: "WORKSHOPS",
     description: "Behind the scenes craftsmanship",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/carhome.jpg?height=400&width=600",
     href: "/portfolio/workshops",
   },
   {
     title: "STREET CULTURE",
     description: "Urban automotive lifestyle",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/carhome.jpg?height=400&width=600",
     href: "/portfolio/street",
   },
   {
     title: "MOTORSPORTS",
     description: "Professional racing photography",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/carhome.jpg?height=400&width=600",
     href: "/portfolio/motorsports",
   },
 ]
@@ -46,7 +46,7 @@ export default function PhotographyPage() {
       {/* Hero Section */}
       <section className="relative h-96 flex items-center justify-center overflow-hidden">
         <Image
-          src="/placeholder.svg?height=400&width=1920"
+          src="/carhome.jpg?height=400&width=1920"
           alt="Professional automotive photography portfolio"
           fill
           className="object-cover"
@@ -65,7 +65,7 @@ export default function PhotographyPage() {
             <Link key={index} href={category.href} className="group">
               <div className="relative h-80 overflow-hidden bg-black">
                 <Image
-                  src={category.image || "/placeholder.svg"}
+                  src={category.image || "/carhome.jpg"}
                   alt={category.description}
                   fill
                   className="object-cover transition-transform duration-500 group-hover:scale-110"

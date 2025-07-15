@@ -7,7 +7,7 @@ export default function HomePage() {
       {/* Hero Section */}
       <section className="relative h-screen flex items-center justify-center overflow-hidden">
         <Image
-          src="/placeholder.svg?height=1080&width=1920"
+          src="/carhome.jpg?height=1080&width=1920"
           alt="Iconic sports car on racing track"
           fill
           className="object-cover"
@@ -27,7 +27,7 @@ export default function HomePage() {
           <Link href="/photography" className="group">
             <div className="relative h-96 overflow-hidden bg-black">
               <Image
-                src="/placeholder.svg?height=400&width=600"
+                src="/engine.jpg?height=400&width=600"
                 alt="Professional automotive photography showcase"
                 fill
                 className="object-cover transition-transform duration-500 group-hover:scale-110"
@@ -44,7 +44,7 @@ export default function HomePage() {
           <Link href="/editorial" className="group">
             <div className="relative h-96 overflow-hidden bg-black">
               <Image
-                src="/placeholder.svg?height=400&width=600"
+                src="/homecar.jpg?height=400&width=600"
                 alt="Editorial writing and automotive journalism"
                 fill
                 className="object-cover transition-transform duration-500 group-hover:scale-110"
@@ -61,7 +61,7 @@ export default function HomePage() {
           <Link href="/consulting" className="group">
             <div className="relative h-96 overflow-hidden bg-black">
               <Image
-                src="/placeholder.svg?height=400&width=600"
+                src="/consulting.jpg?height=400&width=600"
                 alt="Automotive consulting and brand strategy"
                 fill
                 className="object-cover transition-transform duration-500 group-hover:scale-110"

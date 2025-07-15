@@ -8,7 +8,7 @@ import { Instagram, Linkedin, Twitter } from "lucide-react"
 const navigation = [
   { name: "HOME", href: "/" },
   { name: "ABOUT", href: "/about" },
-  { name: "PORTFOLIO", href: "/portfolio" }, // Renamed from Photography
+  // { name: "PORTFOLIO", href: "/portfolio" }, // Renamed from Photography
   { name: "EDITORIAL", href: "/editorial" },
   { name: "CONSULTING", href: "/consulting" }, // Renamed from Services
   { name: "TESTIMONIALS", href: "/testimonials" },
@@ -19,7 +19,7 @@ const navigation = [
   { name: "CASE STUDIES", href: "/case-studies" },
   { name: "NEWSLETTER", href: "/newsletter" },
 ]
-
+  
 export default function Sidebar() {
   const pathname = usePathname()
 

@@ -5,7 +5,7 @@ const blogPosts = [
   {
     title: "The Resurgence of Analog Driving",
     excerpt: "In an increasingly digital world, the raw, unfiltered experience of analog cars is making a comeback.",
-    image: "/placeholder.svg?height=300&width=500",
+    image: "/carhome.jpg?height=300&width=500",
     date: "April 1, 2024",
     readTime: "7 min read",
     href: "/blog/analog-driving",
@@ -13,7 +13,7 @@ const blogPosts = [
   {
     title: "Electric Dreams: The Future of Hypercars",
     excerpt: "How electric powertrains are pushing the boundaries of speed and design in the hypercar segment.",
-    image: "/placeholder.svg?height=300&width=500",
+    image: "/carhome.jpg?height=300&width=500",
     date: "March 20, 2024",
     readTime: "10 min read",
     href: "/blog/electric-hypercars",
@@ -21,7 +21,7 @@ const blogPosts = [
   {
     title: "Behind the Lens: Capturing Speed",
     excerpt: "A look into the techniques and challenges of photographing high-speed motorsports.",
-    image: "/placeholder.svg?height=300&width=500",
+    image: "/carhome.jpg?height=300&width=500",
     date: "March 5, 2024",
     readTime: "9 min read",
     href: "/blog/capturing-speed",
@@ -29,7 +29,7 @@ const blogPosts = [
   {
     title: "The Art of Automotive Restoration",
     excerpt: "Exploring the meticulous process of bringing classic cars back to their former glory.",
-    image: "/placeholder.svg?height=300&width=500",
+    image: "/carhome.jpg?height=300&width=500",
     date: "February 18, 2024",
     readTime: "12 min read",
     href: "/blog/automotive-restoration",
@@ -42,7 +42,7 @@ export default function BlogPage() {
       {/* Hero Section */}
       <section className="relative h-96 flex items-center justify-center overflow-hidden">
         <Image
-          src="/placeholder.svg?height=400&width=1920"
+          src="/carhome.jpg?height=400&width=1920"
           alt="Automotive blog and insights"
           fill
           className="object-cover"
@@ -62,7 +62,7 @@ export default function BlogPage() {
               <article className="bg-white border border-gray-200 overflow-hidden transition-transform duration-300 group-hover:-translate-y-2">
                 <div className="relative h-48 overflow-hidden">
                   <Image
-                    src={post.image || "/placeholder.svg"}
+                    src={post.image || "/carhome.jpg"}
                     alt={post.title}
                     fill
                     className="object-cover transition-transform duration-500 group-hover:scale-110"

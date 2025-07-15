@@ -8,7 +8,7 @@ const mediaFeatures = [
     title: "Interview: The Art of Automotive Storytelling",
     source: "Auto Insights TV",
     date: "March 2024",
-    thumbnail: "/placeholder.svg?height=300&width=500",
+    thumbnail: "/carhome.jpg?height=300&width=500",
     link: "#", // Placeholder for video link
   },
   {
@@ -16,7 +16,7 @@ const mediaFeatures = [
     title: "Featured Photographer: Chad Lewis Hoyt's Racing Portfolio",
     source: "Motorsport Monthly",
     date: "February 2024",
-    thumbnail: "/placeholder.svg?height=300&width=500",
+    thumbnail: "/carhome.jpg?height=300&width=500",
     link: "#", // Placeholder for article link
   },
   {
@@ -24,7 +24,7 @@ const mediaFeatures = [
     title: "Guest Speaker: Future of Electric Vehicles",
     source: "The Car Talk Show",
     date: "January 2024",
-    thumbnail: "/placeholder.svg?height=300&width=500",
+    thumbnail: "/carhome.jpg?height=300&width=500",
     link: "#", // Placeholder for podcast link
   },
   {
@@ -32,7 +32,7 @@ const mediaFeatures = [
     title: "Chad Lewis Hoyt Joins Advisory Board of AutoTech Summit",
     source: "PR Newswire",
     date: "December 2023",
-    thumbnail: "/placeholder.svg?height=300&width=500",
+    thumbnail: "/carhome.jpg?height=300&width=500",
     link: "#", // Placeholder for press release link
   },
 ]
@@ -43,7 +43,7 @@ export default function MediaPage() {
       {/* Hero Section */}
       <section className="relative h-96 flex items-center justify-center overflow-hidden">
         <Image
-          src="/placeholder.svg?height=400&width=1920"
+          src="/carhome.jpg?height=400&width=1920"
           alt="Media and press features of Chad Lewis Hoyt"
           fill
           className="object-cover"
@@ -63,7 +63,7 @@ export default function MediaPage() {
               <article className="bg-white border border-gray-200 overflow-hidden transition-transform duration-300 group-hover:-translate-y-2">
                 <div className="relative h-48 overflow-hidden">
                   <Image
-                    src={feature.thumbnail || "/placeholder.svg"}
+                    src={feature.thumbnail || "/carhome.jpg"}
                     alt={feature.title}
                     fill
                     className="object-cover transition-transform duration-500 group-hover:scale-110"
