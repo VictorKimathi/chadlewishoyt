@@ -14,7 +14,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/victors-projects-51382c59/v0-chad-lewis-hoyt-portfolio-cd](https://vercel.com/victors-projects-51382c59/v0-chad-lewis-hoyt-portfolio-cd)**
+**[https://vercel.com/victors-projects-51382c59/v0-chad-lewis-hoyt-portfolio-cd](https://vedaasarcel.com/victors-projects-51382c59/v0-chad-lewis-hoyt-portfolio-cd)**
 
 ## Build your app
 
