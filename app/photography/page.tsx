@@ -6,43 +6,43 @@ const categories = [
     title: "RACING EVENTS",
     description: "High-octane moments from the track",
     image: "/placeholder.svg?height=400&width=600",
-    href: "/photography/racing",
+    href: "/portfolio/racing",
   },
   {
     title: "CLASSIC CARS",
     description: "Timeless automotive elegance",
     image: "/placeholder.svg?height=400&width=600",
-    href: "/photography/classics",
+    href: "/portfolio/classics",
   },
   {
     title: "EDITORIAL SHOOTS",
     description: "Professional automotive photography",
     image: "/placeholder.svg?height=400&width=600",
-    href: "/photography/editorial",
+    href: "/portfolio/editorial",
   },
   {
     title: "WORKSHOPS",
     description: "Behind the scenes craftsmanship",
     image: "/placeholder.svg?height=400&width=600",
-    href: "/photography/workshops",
+    href: "/portfolio/workshops",
   },
   {
     title: "STREET CULTURE",
     description: "Urban automotive lifestyle",
     image: "/placeholder.svg?height=400&width=600",
-    href: "/photography/street",
+    href: "/portfolio/street",
   },
   {
     title: "MOTORSPORTS",
     description: "Professional racing photography",
     image: "/placeholder.svg?height=400&width=600",
-    href: "/photography/motorsports",
+    href: "/portfolio/motorsports",
   },
 ]
 
 export default function PhotographyPage() {
   return (
-    <div className="pt-20 min-h-screen">
+    <div className="min-h-screen">
       {/* Hero Section */}
       <section className="relative h-96 flex items-center justify-center overflow-hidden">
         <Image
@@ -53,8 +53,8 @@ export default function PhotographyPage() {
         />
         <div className="absolute inset-0 bg-black/50" />
         <div className="relative z-10 text-center text-white">
-          <h1 className="text-5xl md:text-7xl font-bebas font-black tracking-wider">PHOTOGRAPHY</h1>
-          <p className="text-xl mt-4">Capturing automotive excellence through the lens</p>
+          <h1 className="text-5xl md:text-7xl font-bebas font-black tracking-wider">PORTFOLIO</h1>
+          <p className="text-xl mt-4">Showcasing a decade of automotive stories</p>
         </div>
       </section>
 

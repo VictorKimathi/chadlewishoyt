@@ -57,9 +57,9 @@ const config: Config = {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
-        red: {
-          600: "#C00000",
-          700: "#A00000",
+        blue: {
+          600: "#007BFF", // A vibrant blue
+          700: "#0056b3", // A darker shade for hover
         },
       },
       borderRadius: {

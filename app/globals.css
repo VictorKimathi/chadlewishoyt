@@ -94,17 +94,17 @@ html {
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
 }
 
-/* Custom red accent color */
-.text-red-custom {
-  color: #c00000;
+/* Custom blue accent color */
+.text-blue-custom {
+  color: #007bff;
 }
 
-.bg-red-custom {
-  background-color: #c00000;
+.bg-blue-custom {
+  background-color: #007bff;
 }
 
-.border-red-custom {
-  border-color: #c00000;
+.border-blue-custom {
+  border-color: #007bff;
 }
 
 /* Typography improvements */

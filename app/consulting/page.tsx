@@ -25,7 +25,7 @@ const services = [
 
 export default function ConsultingPage() {
   return (
-    <div className="pt-20 min-h-screen">
+    <div className="min-h-screen">
       {/* Hero Section */}
       <section className="relative h-96 flex items-center justify-center overflow-hidden">
         <Image
@@ -55,7 +55,7 @@ export default function ConsultingPage() {
       <section className="max-w-7xl mx-auto px-6 pb-20">
         <div className="grid md:grid-cols-3 gap-8">
           {services.map((service, index) => (
-            <Card key={index} className="border-2 hover:border-red-600 transition-colors duration-300">
+            <Card key={index} className="border-2 hover:border-blue-600 transition-colors duration-300">
               <CardHeader>
                 <CardTitle className="text-xl font-bebas tracking-wide">{service.title}</CardTitle>
                 <CardDescription className="text-base">{service.description}</CardDescription>
@@ -64,7 +64,7 @@ export default function ConsultingPage() {
                 <ul className="space-y-2">
                   {service.features.map((feature, featureIndex) => (
                     <li key={featureIndex} className="flex items-center">
-                      <div className="w-2 h-2 bg-red-600 rounded-full mr-3" />
+                      <div className="w-2 h-2 bg-blue-600 rounded-full mr-3" />
                       {feature}
                     </li>
                   ))}
@@ -112,7 +112,7 @@ export default function ConsultingPage() {
               />
             </div>
 
-            <Button type="submit" className="w-full bg-red-600 hover:bg-red-700 text-white font-semibold py-3">
+            <Button type="submit" className="w-full bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3">
               SEND MESSAGE
             </Button>
           </form>

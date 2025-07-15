@@ -4,6 +4,7 @@ import { Inter, Bebas_Neue } from "next/font/google"
 import "./globals.css"
 import Header from "./components/Header"
 import Footer from "./components/Footer"
+import Sidebar from "./components/Sidebar" // Import the new Sidebar component
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" })
 const bebasNeue = Bebas_Neue({
@@ -28,10 +29,18 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={`${inter.variable} ${bebasNeue.variable} font-sans antialiased`}>
-        <Header />
-        <main>{children}</main>
-        <Footer />
+      <body className={`${inter.variable} ${bebasNeue.variable} font-sans antialiased flex min-h-screen`}>
+        {/* Sidebar for desktop */}
+        <Sidebar />
+
+        <div className="flex flex-col flex-1 lg:ml-64">
+          {" "}
+          {/* Adjust margin for sidebar width */}
+          {/* Header for mobile and logo on desktop */}
+          <Header />
+          <main className="flex-1">{children}</main>
+          <Footer />
+        </div>
       </body>
     </html>
   )

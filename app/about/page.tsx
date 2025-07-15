@@ -3,7 +3,7 @@ import { Instagram, Linkedin, Twitter, Mail } from "lucide-react"
 
 export default function AboutPage() {
   return (
-    <div className="pt-20 min-h-screen">
+    <div className="min-h-screen">
       {/* Hero Section */}
       <section className="relative h-96 flex items-center justify-center overflow-hidden">
         <Image
@@ -78,28 +78,28 @@ export default function AboutPage() {
               <div className="flex space-x-6">
                 <a
                   href="#"
-                  className="flex items-center space-x-2 text-gray-600 hover:text-red-600 transition-colors duration-300"
+                  className="flex items-center space-x-2 text-gray-600 hover:text-blue-600 transition-colors duration-300"
                 >
                   <Instagram className="w-5 h-5" />
                   <span>@chadlewishoyt</span>
                 </a>
                 <a
                   href="#"
-                  className="flex items-center space-x-2 text-gray-600 hover:text-red-600 transition-colors duration-300"
+                  className="flex items-center space-x-2 text-gray-600 hover:text-blue-600 transition-colors duration-300"
                 >
                   <Linkedin className="w-5 h-5" />
                   <span>LinkedIn</span>
                 </a>
                 <a
                   href="#"
-                  className="flex items-center space-x-2 text-gray-600 hover:text-red-600 transition-colors duration-300"
+                  className="flex items-center space-x-2 text-gray-600 hover:text-blue-600 transition-colors duration-300"
                 >
                   <Twitter className="w-5 h-5" />
                   <span>@chadhoyt</span>
                 </a>
                 <a
                   href="mailto:chad@chadlewishoyt.com"
-                  className="flex items-center space-x-2 text-gray-600 hover:text-red-600 transition-colors duration-300"
+                  className="flex items-center space-x-2 text-gray-600 hover:text-blue-600 transition-colors duration-300"
                 >
                   <Mail className="w-5 h-5" />
                   <span>Email</span>

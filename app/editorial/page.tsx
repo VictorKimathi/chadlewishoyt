@@ -55,7 +55,7 @@ const articles = [
 
 export default function EditorialPage() {
   return (
-    <div className="pt-20 min-h-screen">
+    <div className="min-h-screen">
       {/* Hero Section */}
       <section className="relative h-96 flex items-center justify-center overflow-hidden">
         <Image
@@ -91,7 +91,7 @@ export default function EditorialPage() {
                     <span className="mx-2">•</span>
                     <span>{article.readTime}</span>
                   </div>
-                  <h2 className="text-xl font-bold mb-3 group-hover:text-red-600 transition-colors duration-300">
+                  <h2 className="text-xl font-bold mb-3 group-hover:text-blue-600 transition-colors duration-300">
                     {article.title}
                   </h2>
                   <p className="text-gray-600 leading-relaxed">{article.excerpt}</p>
