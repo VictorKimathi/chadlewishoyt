@@ -3,19 +3,19 @@ import Link from "next/link";
 
 const skills = [
   {
-    title: "JOURNALISM",
+    title: "Automotive Journalism",
     subtitle: "Automotive journalism & reviews",
     href: "/journalism",
     img: "/journalism.jpg?height=400&width=600",
   },
   {
-    title: "ENGINE & TUNING",
+    title: "Tuning & Enthusiast Culture Writing",
     subtitle: "Engine & tuning expertise",
     href: "/tuning",
     img: "/enginetuning.jpg?height=400&width=600",
   },
   {
-    title: "SEO & DIGITAL",
+    title: "SEO-Driven Automotive Content",
     subtitle: "SEO & digital publishing",
     href: "/seo",
     img: "/seo.jpg?height=400&width=600",
