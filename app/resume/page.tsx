@@ -42,7 +42,7 @@ export default function ResumePage() {
             </a>
           </p>
           <a
-            href="/ChadLewisHoytResume.pdf"
+            href="/chad.docx"
             download
             className="inline-flex items-center bg-blue-600 hover:bg-blue-700 text-white font-medium py-2 px-4 rounded mt-4"
           >
