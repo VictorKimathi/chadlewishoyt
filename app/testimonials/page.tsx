@@ -20,13 +20,7 @@ const testimonials = [
     author: "Emily White",
     title: "Event Manager, Grand Prix Series",
     avatar: "/person3.jpg?height=80&width=80",
-  },
-  {
-    quote: "Chad's articles are always insightful and engaging. He has a unique voice that resonates with our readers.",
-    author: "Michael Brown",
-    title: "Editor-in-Chief, Auto Enthusiast Magazine",
-    avatar: "/carhome.jpg?height=80&width=80",
-  },
+  }
 ]
 
 export default function TestimonialsPage() {
