@@ -8,7 +8,7 @@ const blogPosts = [
     image: "/carhome.jpg?height=300&width=500",
     date: "April 20, 2025",
     readTime: "7 min read",
-    href: "/blog/Old-School Cool_New_Age_Tech",
+    href: "Old-School Cool_New_Age_Tech",
   },
   {
     title: "Are EV Muscle Cars Like the Charger Daytona SRT the Future – or Just a Phase?Electric Dreams: The Future of Hypercars",
@@ -16,7 +16,7 @@ const blogPosts = [
     image: "/carhome.jpg?height=300&width=500",
     date: "June 18, 2025",
     readTime: "10 min read",
-    href: "/blog/Are_EV_Muscle_Cars_Like_the_Charger_Daytona_SRT_the_Future_or_Just_a_Phase",
+    href: "Are_EV_Muscle_Cars_Like_the_Charger_Daytona_SRT_the_Future_or_Just_a_Phase",
   },
   {
     title: "The Forgotten Supercars: Hidden Icons That Deserve More Love in 2025",
@@ -24,7 +24,7 @@ const blogPosts = [
     image: "/carhome.jpg?height=300&width=500",
     date: "July 5, 2025",
     readTime: "9 min read",
-    href: "/blog/The_Forgotten_Supercars_Hidden_Icons_That_Deserve_More_Love_in_2025",
+    href: "The_Forgotten_Supercars_Hidden_Icons_That_Deserve_More_Love_in_2025",
   },
 ]
 
