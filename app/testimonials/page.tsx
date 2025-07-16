@@ -6,20 +6,20 @@ const testimonials = [
       "Chad's ability to capture the essence of our brand through his photography and writing is unparalleled. He truly understands the automotive spirit.",
     author: "Sarah Chen",
     title: "Marketing Director, Apex Motors",
-    avatar: "/carhome.jpg?height=80&width=80",
+    avatar: "/person1.jpg?height=80&width=80",
   },
   {
     quote: "His strategic insights transformed our content approach. Chad is a true expert in automotive storytelling.",
     author: "David Lee",
     title: "CEO, Velocity Auto Group",
-    avatar: "/carhome.jpg?height=80&width=80",
+    avatar: "/person2.jpg?height=80&width=80",
   },
   {
     quote:
       "Working with Chad on our event was seamless. His professionalism and passion shine through in every detail.",
     author: "Emily White",
     title: "Event Manager, Grand Prix Series",
-    avatar: "/carhome.jpg?height=80&width=80",
+    avatar: "/person3.jpg?height=80&width=80",
   },
   {
     quote: "Chad's articles are always insightful and engaging. He has a unique voice that resonates with our readers.",
