@@ -2,7 +2,8 @@ import Image from "next/image"
 import Link from "next/link"
 
 const blogPosts = [
-{
+
+  {
     title: "Old-School Cool, New-Age Tech: Why Motorcycle Brands Are Embracing Nostalgia with Modern Tech",
     excerpt: "In an age of rapid innovation, where electric bikes, adaptive cruise control and TFT dashboards are becoming the norm, motorcycle manufacturers are increasingly looking backward for inspiration. Brands like Triumph, Yamaha, Royal Enfield and Honda are embracing retro aesthetics while integrating cutting-edge technology, creating a new category of bikes that fuse timeless style with 21st-century performance.",
     image: "/carhome.jpg?height=300&width=500",
@@ -25,6 +26,15 @@ const blogPosts = [
     date: "July 5, 2025",
     readTime: "9 min read",
     href: "/blog/The_Forgotten_Supercars_Hidden_Icons_That_Deserve_More_Love_in_2025",
+
+  },
+  {
+    title: "The Art of Automotive Restoration",
+    excerpt: "Exploring the meticulous process of bringing classic cars back to their former glory.",
+    image: "/carhome.jpg?height=300&width=500",
+    date: "February 18, 2024",
+    readTime: "12 min read",
+    href: "/blog/automotive-restoration",
   },
 ]
 
