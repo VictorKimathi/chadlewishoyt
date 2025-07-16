@@ -9,15 +9,15 @@ const navigation = [
   { name: "HOME", href: "/" },
   { name: "ABOUT", href: "/about" },
   // { name: "PORTFOLIO", href: "/portfolio" }, // Renamed from Photography
-  { name: "EDITORIAL", href: "/editorial" },
+  // { name: "EDITORIAL", href: "/editorial" },
   { name: "CONSULTING", href: "/consulting" }, // Renamed from Services
   { name: "TESTIMONIALS", href: "/testimonials" },
   { name: "BLOG", href: "/blog" },
   { name: "FAQ", href: "/faq" },
   { name: "RESUME", href: "/resume" },
-  { name: "MEDIA", href: "/media" },
-  { name: "CASE STUDIES", href: "/case-studies" },
-  { name: "NEWSLETTER", href: "/newsletter" },
+  // { name: "MEDIA", href: "/media" },
+  // { name: "CASE STUDIES", href: "/case-studies" },
+  // { name: "NEWSLETTER", href: "/newsletter" },
 ]
   
 export default function Sidebar() {
