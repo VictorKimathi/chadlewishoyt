@@ -3,29 +3,39 @@ import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/
 
 const faqs = [
   {
-    question: "What types of automotive photography do you specialize in?",
+    question: "What types of automotive content do you specialize in?",
     answer:
-      "I specialize in a wide range of automotive photography, including racing events, classic car portraits, editorial shoots for magazines, and behind-the-scenes workshop photography. My goal is to capture the unique character and story of each vehicle.",
+      "I specialize in car reviews, tuning guides, automotive news, EV industry coverage, and motorcycle journalism. I also write SEO-optimized blog posts, landing pages, and brand campaigns. Whether you're launching a new model or explaining aftermarket upgrades, I can help your readers stay informed and engaged.",
   },
   {
-    question: "Can you help with content strategy for my automotive brand?",
+    question: "Are you familiar with car tuning and performance upgrades?",
     answer:
-      "Absolutely. My consulting services include comprehensive brand strategy and content strategy development. I work with clients to define their brand narrative, identify target audiences, and create compelling content plans that resonate with automotive enthusiasts.",
+      "Yes. I’ve written extensively about tuning culture—everything from bolt-on mods and ECU remaps to full engine swaps and suspension setups. I understand the technical details but also how to make them accessible to readers at different levels of experience.",
   },
   {
-    question: "Do you offer services for private car collectors?",
+    question: "Do you write content that’s ready to publish?",
     answer:
-      "Yes, I offer bespoke photography services for private collectors who wish to document their vehicles with high-quality, artistic imagery. This can include studio shoots, on-location sessions, or event coverage.",
+      "Absolutely. I take pride in delivering clean, publish-ready work that requires little to no editing. I follow brand guidelines closely, format my copy for CMS, and meet deadlines without needing to be chased.",
   },
   {
-    question: "What is your process for editorial writing assignments?",
+    question: "Can you match the tone and voice of my publication?",
     answer:
-      "My editorial process typically involves initial research and interviews, outlining the article, drafting, and then several rounds of revisions based on client feedback. I focus on delivering engaging, well-researched, and accurate automotive stories.",
+      "Yes. I’ve written for performance brands, enthusiast blogs, and mainstream news outlets. Whether you need a technical, energetic, or conversational tone, I can adapt quickly to match your voice and audience.",
   },
   {
-    question: "How can I commission a project or request a quote?",
+    question: "What’s your process for new assignments?",
     answer:
-      "You can reach out through the 'Consulting' page, which includes a contact form, or directly via email/phone listed in the footer. Please provide as much detail as possible about your project to help me understand your needs.",
+      "I start by reviewing your brief, tone guidelines, and any reference materials. I’ll do my own research to ensure accuracy, draft the piece with SEO and structure in mind, and deliver it on time. If revisions are needed, I handle those promptly.",
+  },
+  {
+    question: "Do you cover electric vehicles and sustainable tech?",
+    answer:
+      "Definitely. I’ve written about emerging EVs, hybrid powertrains, charging networks, and sustainable design trends. I stay current on regulatory shifts and consumer adoption rates so your content stays relevant.",
+  },
+  {
+    question: "Can you provide samples or a writing test?",
+    answer:
+      "Yes. My portfolio is available here, and I’m open to short test assignments if needed. I want you to feel confident that my style fits your needs.",
   },
 ]
 
@@ -36,7 +46,7 @@ export default function FAQPage() {
       <section className="relative h-96 flex items-center justify-center overflow-hidden">
         <Image
           src="/carhome.jpg?height=400&width=1920"
-          alt="Frequently asked questions about automotive journalism and photography"
+          alt="Frequently asked questions about automotive journalism and content"
           fill
           className="object-cover"
         />
@@ -55,7 +65,9 @@ export default function FAQPage() {
               <AccordionTrigger className="text-left text-lg font-semibold hover:text-blue-600 transition-colors duration-300">
                 {faq.question}
               </AccordionTrigger>
-              <AccordionContent className="text-gray-700 leading-relaxed">{faq.answer}</AccordionContent>
+              <AccordionContent className="text-gray-700 leading-relaxed">
+                {faq.answer}
+              </AccordionContent>
             </AccordionItem>
           ))}
         </Accordion>
