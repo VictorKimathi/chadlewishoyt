@@ -23,9 +23,12 @@ export async function generateStaticParams() {
   }))
 }
 
-// The main page component, now a clean Server Component
-export default function BlogPostPage({ params }: BlogPostPageProps) {
-  const post = getBlogPost(params.id)
+// The main page component, now an async Server Component
+export default async function BlogPostPage({ params }: BlogPostPageProps) {
+  // Await the params to access its properties
+  const { id } = await params;
+  
+  const post = getBlogPost(id)
 
   // If no post is found for the given ID, render the 404 page.
   if (!post) {
