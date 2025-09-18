@@ -10,15 +10,23 @@ const blogPosts = [
     date: "April 20, 2025",
     readTime: "7 min read",
   },
-
-  // {
-  //   id: "forgotten-supercars-hidden-icons",
-  //   title: "The Forgotten Supercars: Hidden Icons That Deserve More Love in 2025",
-  //   excerpt: "Everyone knows the names: Ferrari LaFerrari, McLaren P1, Bugatti Chiron. But for every hypercar poster child, there's a lesser-known supercar – a beautifully engineered machine that didn't get the spotlight it deserved. Maybe it launched at the wrong time, got overshadowed by flashier rivals or never made it to the U.S. market. In 2025, as car culture becomes increasingly digital, it's the perfect time to revisit these forgotten supercars – and give them the credit they're due.",
-  //   image: "/carhome.jpg?height=300&width=500",
-  //   date: "July 5, 2025",
-  //   readTime: "9 min read",
-  // },
+   {
+    title: "Are EV Muscle Cars Like the Charger Daytona SRT the Future – or Just a Phase?Electric Dreams: The Future of Hypercars",
+    excerpt: "For decades, muscle cars were defined by three things: big displacement, rear-wheel drive and a snarling V8 soundtrack. But the future is coming fast – and it’s electric. Leading the charge (literally) is Dodge, the most unapologetically aggressive muscle brand in America. With the unveiling of the Dodge Charger Daytona SRT EV, the company isn’t just introducing a new car – it’s launching an entirely new muscle era.",
+    image: "/carhome.jpg?height=300&width=500",
+    date: "June 18, 2025",
+    readTime: "10 min read",
+    href: "Are_EV_Muscle_Cars_Like_the_Charger_Daytona_SRT_the_Future_or_Just_a_Phase",
+  // href: "Are_EV_Muscle_Cars_Like_the_Charger_Daytona_SRT_the_Future_or_Just_a_Phase.pdf",
+  },
+  {
+    id: "forgotten-supercars-hidden-icons",
+    title: "The Forgotten Supercars: Hidden Icons That Deserve More Love in 2025",
+    excerpt: "Everyone knows the names: Ferrari LaFerrari, McLaren P1, Bugatti Chiron. But for every hypercar poster child, there's a lesser-known supercar – a beautifully engineered machine that didn't get the spotlight it deserved. Maybe it launched at the wrong time, got overshadowed by flashier rivals or never made it to the U.S. market. In 2025, as car culture becomes increasingly digital, it's the perfect time to revisit these forgotten supercars – and give them the credit they're due.",
+    image: "/carhome.jpg?height=300&width=500",
+    date: "July 5, 2025",
+    readTime: "9 min read",
+  },
   {
   "id": "car-names-that-shouldve-been-laughed-out-of-the-room",
   "title": "Car Names That Should’ve Been Laughed Out of the Room",
