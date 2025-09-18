@@ -504,7 +504,7 @@ VW's 47% year-over-year jump in BEV deliveries, and resulting leap to 11% of tot
   id: "tesla-fans-flat-earthers",
   title: "Why Tesla Fans Are the Flat-Earthers of the Car World",
   excerpt: "Some Tesla fans don't act like car buyers. They act like believers. Online, loyalty to Tesla often looks less like appreciation for a product and more like devotion to a mission. Fan posts often read like sermons, packed with praise, prophecy, and warnings for the doubters.",
-image: "/carhome.jpg?height=300&width=500",
+image: "/tesla.avif?height=300&width=500",
   date: "September 5, 2025",
   readTime: "8 min read",
   content: `

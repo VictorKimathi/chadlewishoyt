@@ -66,7 +66,7 @@ const blogPosts = [
   "id": "tesla-fans-flat-earthers",
   "title": "Why Tesla Fans Are the Flat-Earthers of the Car World",
   "excerpt": "Some Tesla fans don’t act like car buyers. They act like believers. Online, loyalty to Tesla often looks less like appreciation for a product and more like devotion to a mission. Fan posts often read like sermons, packed with praise, prophecy, and warnings for the doubters. When someone points out a flaw, they don’t get a real conversation. They get attacked. Critics get called liars, Luddites, or worse. The point isn’t debate. It’s defense.",
-    image: "/carhome.jpg?height=300&width=500",
+    image: "/tesla.avif?height=300&width=500",
   "date": "November 20, 2025",
   "readTime": "10 min read",
 }
