@@ -185,7 +185,7 @@
         id: "forgotten-supercars-hidden-icons",
         title: "The Forgotten Supercars: Hidden Icons That Deserve More Love in 2025",
         excerpt: "Everyone knows the names: Ferrari LaFerrari, McLaren P1, Bugatti Chiron. But for every hypercar poster child, there's a lesser-known supercar that didn't get the spotlight it deserved.",
-        image: "/carhome.jpg?height=300&width=500",
+       image: "/carhome.jpg?height=300&width=500",
         date: "July 5, 2025",
         readTime: "9 min read",
         content: `
@@ -228,13 +228,13 @@
     "id": "car-names-that-shouldve-been-laughed-out-of-the-room",
     "title": "Car Names That Should’ve Been Laughed Out of the Room",
     "excerpt": "Some of the worst car names in automotive history were not accidents. They were pitched in meetings, vetted by legal, pushed by marketing, and approved at the highest levels. Entire teams signed off on names they thought sounded bold or forward-thinking. What left the boardroom as a branding win often landed on the dealership floor as a joke. The car stayed the same. What changed was how people talked about it.",
-    "image": "/car-name-bloopers.jpg?height=300&width=500",
+   image: "/carhome.jpg?height=300&width=500",
     "date": "September 18, 2025",
     "readTime": "12 min read",
     "content": "There’s a difference between strange and stupid, and car companies cross that line more often than they realize. With the wrong name, a perfectly functional car becomes forgettable or mocked before it ever gets a chance. One bad name turns a decent coupe into a punchline. The industry has done it over and over. These aren’t rare slip-ups. They reflect how easily decisions get shaped by people too close to the process to hear how bad they sound to anyone else.\n\n### Ford Probe is still the benchmark for branding misfires\n\nFord didn’t stumble into the name “Probe.” It was a deliberate attempt to make a front-wheel-drive coupe sound sleek and high-tech. It borrowed its name from a line of Ford concept cars meant to showcase innovation. The car itself wasn’t bad. Developed with Mazda under Ford’s global platform strategy, it offered respectable performance for the time. It wasn’t fast, but it was agile and priced to move.\n\nBut none of that mattered once people heard the name. It didn’t sound like a car. It sounded like a hospital procedure. Ford had even considered positioning the Probe as the next-generation Mustang, a plan scrapped after backlash from purists and the public. Even drivers who liked the car had to grit their teeth every time they said what they drove. One awkward word on the trunk was enough to drown out every other aspect of the car’s design or engineering. It might have been aiming for a futuristic import fighter. Instead, it landed with a name nobody wanted to say out loud.\n\n### AMC Gremlin leaned into absurdity — and got away with it\n\nAMC needed a subcompact, and they needed it fast. Imports were gaining ground in the early ’70s, and the Big Three were scrambling to keep up. AMC’s answer was to rush a new design to market and give it a name that sounded like a mechanical failure. It didn’t sound mischievous. It sounded broken: fried wiring, stalling engines, and dash lights that wouldn’t shut off. It was a joke name, except AMC wasn’t joking.\n\nThe design didn’t help. The Gremlin looked like a Hornet that had been rear-ended and left that way. From day one, the car had a cartoon mascot and leaned into its own weirdness. AMC tried to sell the weirdness as rebellion. But buyers don’t want their car to sound cursed, and the name did more damage than the sheet metal ever could. Despite years of decent sales, the Gremlin became a punchline. It’s remembered less for what it was than what it was called. AMC went for bold in a market that was playing it safe. What they got was a car that people still talk about, just not the way they hoped.\n\n### The Mitsubishi Lettuce proves someone should’ve said no\n\nMitsubishi didn’t just greenlight a weird name. They called the car Lettuce and leaned in. Technically, it was a trim variant of the Mirage, but that didn’t stop the company from branding it like a tossed salad. There was no lettuce-green paint, no garden-themed marketing, and no clever pun in Japanese to save it. The name was simply... Lettuce. No one stopped it.\n\nWhat makes the Lettuce so baffling isn’t the car. It’s that no one in the room said, “Hold on.” Mitsubishi introduced it during the early ’90s, a time when Japanese automakers were experimenting wildly with kei cars and niche subcompacts. Some names like Pajero Mini or Nissan S-Cargo had at least some charm or internal logic. The Lettuce didn’t. It was plain, unremarkable, and best known for its name being memed decades later.\n\nUnlike the Gremlin or the Probe, the Lettuce didn’t provoke outrage or loyalist backlash. It just quietly existed with one of the most mockable names in automotive history. The car faded. The name didn’t. That disconnect between the utter blandness of the car and the surreal boldness of the name makes it feel less like branding and more like a dare.",
     "images": [
         {
-        "src": "/car-name-bloopers-main.jpg",
+        "src": "/collection.jpg",
         "alt": "A collection of cars with questionable names",
         "caption": "A collection of cars with names that should have been vetoed."
         }
@@ -244,7 +244,7 @@
   id: "slate-auto-minimalist-ev-truck",
   title: "Why Slate Auto's Minimalist $20K EV Truck May Be the Biggest Disruption in the U.S.",
   excerpt: "When Slate Auto unveiled its entry-level electric pickup earlier this year, it didn't come with a panoramic screen, complex driver-assist features or even power windows. Instead, the Jeff Bezos–backed startup delivered something unexpected: a bare-bones EV truck with a starting price of $20,000.",
-  image: "/slate-auto-truck.jpg?height=300&width=500",
+  image: "/carhome.jpg?height=300&width=500",
   date: "September 15, 2025",
   readTime: "11 min read",
   content: `
@@ -332,7 +332,7 @@ If production meets expectations and consumer demand holds, Slate could reshape 
   `,
   images: [
     {
-      src: "/slate-auto-minimalist-truck.jpg",
+      src: "/slate.webp",
       alt: "Slate Auto's minimalist electric pickup truck",
       caption: "Slate Auto's bare-bones approach strips away luxury features to achieve an unprecedented $20,000 price point"
     }
@@ -342,7 +342,7 @@ If production meets expectations and consumer demand holds, Slate could reshape 
   id: "byd-megawatt-flash-chargers",
   title: "All About BYD's Megawatt Flash Chargers: 400 km in 5 Minutes and 15,000 Stations Coming",
   excerpt: "Electric vehicle charging has long been a sticking point for EV adoption. While battery technology continues to evolve, charging times remain a barrier for drivers used to five-minute gas station visits. That's why BYD's new 'Megawatt Flash Chargers', capable of delivering 400 kilometers of range in just five minutes, represent a seismic leap.",
-  image: "/byd-megawatt-charger.jpg?height=300&width=500",
+image: "/carhome.jpg?height=300&width=500",
   date: "September 10, 2025",
   readTime: "13 min read",
   content: `
@@ -441,7 +441,7 @@ For drivers, it means EV ownership will feel far less like a compromise and more
   `,
   images: [
     {
-      src: "/byd-megawatt-charging-station.jpg",
+      src: "charger.jpg",
       alt: "BYD Megawatt Flash Charger station with electric vehicle",
       caption: "BYD's revolutionary Megawatt Flash Chargers can deliver 400 kilometers of range in just five minutes"
     }
@@ -451,7 +451,7 @@ For drivers, it means EV ownership will feel far less like a compromise and more
   id: "vws-h1-2025-ev-boom",
   title: "VW's H1 2025 EV Boom with 47% Growth in BEV Deliveries. What's Fueling the Momentum?",
   excerpt: "Volkswagen Group has delivered a standout performance in the first half of 2025: 465,500 BEVs shipped worldwide – a 47% year-over-year increase compared to H1 2024. This explosive growth didn't merely save face – it redefined Volkswagen's trajectory in the electrification era.",
-  image: "/vw-id-family-lineup.jpg?height=300&width=500",
+ image: "/carhome.jpg?height=300&width=500",
   date: "August 28, 2025",
   readTime: "14 min read",
   content: `
@@ -554,7 +554,7 @@ VW's 47% year-over-year jump in BEV deliveries, and resulting leap to 11% of tot
   id: "tesla-fans-flat-earthers",
   title: "Why Tesla Fans Are the Flat-Earthers of the Car World",
   excerpt: "Some Tesla fans don't act like car buyers. They act like believers. Online, loyalty to Tesla often looks less like appreciation for a product and more like devotion to a mission. Fan posts often read like sermons, packed with praise, prophecy, and warnings for the doubters.",
-  image: "/tesla-fan-culture.jpg?height=300&width=500",
+image: "/carhome.jpg?height=300&width=500",
   date: "September 5, 2025",
   readTime: "8 min read",
   content: `
@@ -598,7 +598,7 @@ Until Tesla's fan culture can distinguish between protecting a company and prote
   `,
   images: [
     {
-      src: "/tesla-online-discussion.jpg",
+      src: "/tesla.jpg",
       alt: "Screenshot of heated Tesla discussion online",
       caption: "Tesla's online fan culture often treats criticism as betrayal rather than legitimate feedback"
     }
