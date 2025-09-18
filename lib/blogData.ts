@@ -19,167 +19,167 @@
         id: "old-school-cool-new-age-tech",
         title: "Old-School Cool, New-Age Tech: Why Motorcycle Brands Are Embracing Nostalgia with Modern Tech",
         excerpt: "In an age of rapid innovation, where electric bikes, adaptive cruise control and TFT dashboards are becoming the norm, motorcycle manufacturers are increasingly looking backward for inspiration.",
-        image: "/carhome.jpg?height=300&width=500",
+        image: "/MOTOR1.jpg?height=300&width=500",
         date: "April 20, 2025",
         readTime: "7 min read",
         content: `
-    # Old-School Cool, New-Age Tech: Why Motorcycle Brands Are Embracing Nostalgia with Modern Tech
 
-    In an age of rapid innovation, where electric bikes, adaptive cruise control and TFT dashboards are becoming the norm, motorcycle manufacturers are increasingly looking backward for inspiration. Brands like Triumph, Yamaha, Royal Enfield and Honda are embracing retro aesthetics while integrating cutting-edge technology, creating a new category of bikes that fuse timeless style with 21st-century performance.
 
-    But why are so many riders, including younger enthusiasts, drawn to motorcycles that look like they belong in the 1960s or '70s? And why are brands investing heavily in these retro-modern hybrids? The answer lies in more than just design. It's about emotion, connection and proving that you don't need to choose between classic charm and modern engineering.
+In an era of electric bikes, adaptive cruise control, and vibrant TFT dashboards, motorcycle brands are drawing inspiration from the past. **Triumph**, **Yamaha**, **Royal Enfield**, and **Honda** craft bikes that blend *retro aesthetics* with cutting-edge technology, creating a fusion of timeless style and 21st-century performance.
 
-    ## The Rise of Retro-Modern Motorcycles
+Why are riders—especially younger ones—drawn to bikes that echo the 1960s and '70s? Why are brands investing in these retro-modern hybrids? It's not just about looks—it's about *emotion*, *connection*, and proving you can have vintage charm with modern reliability.
 
-    The retro motorcycle trend has exploded in the past decade. Once a niche for vintage collectors or café racer customizers, the market has gone mainstream. Today, nearly every major manufacturer offers at least one retro-inspired model:
+## The Retro-Modern Motorcycle Boom
 
-    - **Triumph Bonneville Series**
-    - **Yamaha XSR700 and XSR900**
-    - **Kawasaki Z900RS**
-    - **Royal Enfield Interceptor 650**
-    - **Honda CB1100 and CB350 H'ness**
+Over the past decade, retro motorcycles have surged from a niche for vintage collectors and café racer builders to a mainstream obsession. Nearly every major brand offers retro-inspired models:
 
-    These bikes take design cues from classic models; round headlights, twin shocks, upright ergos, while incorporating modern fuel injection, ABS, traction control and emissions compliance.
+- **Triumph Bonneville Series**: Iconic style with modern finesse.
+- **Yamaha XSR700 and XSR900**: Sleek, sporty, nostalgic.
+- **Kawasaki Z900RS**: A tribute to the classic Z1.
+- **Royal Enfield Interceptor 650**: Affordable retro charm.
+- **Honda CB1100 and CB350 H'ness**: Timeless design, modern heart.
 
-    ## Why Nostalgia Sells — Even to Younger Riders
+These bikes feature classic elements—*round headlights*, *twin shocks*, *upright ergonomics*—while incorporating modern tech like fuel injection, ABS, and traction control, all compliant with strict emissions standards.
 
-    You might assume that retro bikes only appeal to older riders reliving their youth. But sales data and brand surveys suggest otherwise. Millennials and Gen Z riders are just as likely to buy a retro-styled bike, even if they've never ridden a carbureted machine. You might wonder, why the appeal? 
+![Classic motorcycle with modern technology](/motorcycle-retro.jpg "Modern retro motorcycles blend classic styling with cutting-edge technology")
 
-    Well, riders are drawn to retro motorcycles because they capture a timeless elegance, those perfectly round headlights and sculpted fuel tanks look as stunning today as they did decades ago. There's an appealing simplicity to these machines, too: unlike the high-tech sport bikes that can feel intimidating or overly aggressive, vintage-inspired models invite you to focus on the pure joy of riding.
+## Why Nostalgia Resonates with Younger Riders
 
-    They also offer a level of personality and authenticity that's hard to find elsewhere; whether it's swapping out handlebars or tweaking the paint, retro bikes practically beg for customization, letting each owner imbue their ride with a unique character. And it isn't just motorcycle enthusiasts who are fueling this trend: from Instagram feeds full of café-racers to nostalgic TV hits like Stranger Things, the broader resurgence of retro culture has made "old-school cool" feel fresh and exciting once again. In short, retro bikes connect with emotion, not just performance stats which is a powerful sales tool.
+You might assume retro bikes appeal only to older riders chasing their youth. Yet, *Millennials* and *Gen Z* are equally captivated, even without experience of carbureted engines. Here's why:
 
-    ## Modern Tech Beneath the Vintage Shell
+- **Timeless Elegance**: Round headlights and sculpted fuel tanks are as stunning today as decades ago.
+- **Simplified Riding**: Unlike high-tech sport bikes that can feel intimidating, retro models emphasize the joy of riding.
+- **Customization Freedom**: From handlebars to paint, retro bikes invite personal expression.
+- **Cultural Revival**: From Instagram's café racer obsession to *Stranger Things*-fueled nostalgia, retro culture thrives.
 
-    Don't be fooled by the old-school looks. Today's retro motorcycles are packed with features that improve safety, efficiency and rideability.
+These bikes offer *personality* and *authenticity*, connecting riders emotionally in ways raw specs can't. They're not just machines—they're *statements*.
 
-    | Hidden Tech Feature | Function or Benefit |
-    |---------------------|-------------------|
-    | Fuel Injection | Replaces carburetors for smoother throttle and lower emissions |
-    | Ride-by-Wire Throttle | Enables selectable ride modes and more precise control |
-    | Dual-Channel ABS | Provides improved braking control, sometimes enhanced with cornering functionality |
-    | LED Lighting | Offers better visibility, often disguised in vintage-style housings |
-    | TFT/Analog-Digital Dashboards | Combines modern display functions with classic aesthetics |
+## High-Tech Hidden in Vintage Style
 
-    Take the Yamaha XSR900, for example. While it channels '80s sportbike style, it includes an IMU-based traction control system, quickshifter and a 6-axis sensor suite – the same tech found on Yamaha's high-end MT and R-series bikes.
+Don't be fooled by the classic looks. Retro-modern bikes are packed with technology that enhances *safety*, *efficiency*, and *rideability*. Here's what's under the hood:
 
-    ## Triumph: The Poster Child of Retro-Modern Balance
+| Tech Feature | Benefit |
+|--------------|---------|
+| **Fuel Injection** | Smoother throttle, lower emissions |
+| **Ride-by-Wire Throttle** | Precise control with selectable ride modes |
+| **Dual-Channel ABS** | Enhanced braking, often with cornering smarts |
+| **LED Lighting** | Better visibility in vintage-style housings |
+| **TFT/Analog-Digital Dashboards** | Classic looks with modern data displays |
 
-    Triumph has mastered the balance between honoring its heritage and building motorcycles that feel anything but dated. The British brand reignited its legacy in the early 2000s by bringing back the Bonneville. Inspired by the era of Steve McQueen and the Mods and Rockers, the bike delivered classic styling with a modern edge. Fuel injection replaced carburetors. Chassis geometry tightened up. The ride became smoother, sharper, and easier to live with day to day.
+For example, the **Yamaha XSR900** channels '80s sportbike vibes but includes an IMU-based traction control system, quickshifter, and a 6-axis sensor suite—tech shared with Yamaha's high-end MT and R-series bikes.
 
-    Today, the Bonneville T100 and T120 deliver timeless design powered by refined parallel-twin engines. Riders looking for sharper road manners turn to the Speed Twin 900 and 1200, both equipped with sport-tuned suspension and upgraded brakes. And for those who want trail-ready performance without giving up vintage looks, the Scrambler 900 and 1200 deliver both, blending off-road capability with rugged, retro styling. 
+## Triumph: Mastering Retro-Modern Perfection
 
-    Triumph continues to evolve the lineup with every generation. From Euro 5 emissions compliance to updated electronics and meaningful chassis upgrades, the brand proves that retro design doesn't have to mean outdated tech. In Triumph's hands, heritage is a platform built to move forward.
+**Triumph** has mastered blending heritage with innovation. Reviving the *Bonneville* in the early 2000s, inspired by Steve McQueen's era of Mods and Rockers, Triumph delivered classic style with modern performance. Carburetors were replaced by fuel injection, chassis geometry sharpened, and the ride became smoother and more reliable.
 
-    ## Royal Enfield: From Budget Classic to Global Contender
+Today's lineup includes:
 
-    While Triumph targets the premium segment, Royal Enfield has made retro-modern riding accessible to the masses. Once seen as outdated or niche, the Indian brand has surged in popularity thanks to bikes like the:
+- **Bonneville T100 and T120**: Timeless design with refined parallel-twin engines.
+- **Speed Twin 900 and 1200**: Sporty handling with upgraded brakes and suspension.
+- **Scrambler 900 and 1200**: Rugged retro looks with off-road capability.
 
-    - **Interceptor 650**
-    - **Continental GT 650**
-    - **Meteor 350**
-    - **Hunter 350**
+With *Euro 5* compliance, updated electronics, and chassis upgrades, Triumph proves retro design isn't outdated—it's a platform for progress.
 
-    Under the skin, these machines are powered by air-oil-cooled single- and twin-cylinder engines, an old-school setup that's as easy to service as it is satisfying to ride. Their straightforward construction keeps things delightfully simple, while an accessible price point and proven reliability mean you can focus on the road instead of the repair shop. And of course, every panel and pinstripe is deliberately designed to evoke those genuine vintage vibes, so you get all the nostalgia without any of the headaches.
+## Royal Enfield: Retro for Everyone
 
-    Royal Enfield's bikes don't just look old-school, they ride like a callback to a simpler era. And yet, they feature ABS, EFI and optional Tripper navigation. It's a winning combination for new riders, city commuters and retro enthusiasts alike.
+While Triumph targets the premium segment, **Royal Enfield** makes retro-modern riding accessible. Once a niche brand, it's now a global contender with models like:
 
-    ## Custom Culture, Instagram and Identity
+- **Interceptor 650**: Classic style, twin-cylinder power.
+- **Continental GT 650**: Café racer vibes on a budget.
+- **Meteor 350**: Simple, stylish, affordable.
+- **Hunter 350**: Urban-friendly retro flair.
 
-    Retro bikes also dominate on platforms like Instagram, where custom builds and aesthetic shots of vintage-style bikes consistently outperform modern sportbike content. That's not by accident. Custom culture thrives in the retro space:
+Powered by air-oil-cooled engines, these bikes are easy to maintain and a joy to ride. Their straightforward design, affordable price, and reliable performance deliver nostalgia without hassle, complete with ABS, EFI, and optional *Tripper* navigation.
 
-    - Bolt-on parts are more available
-    - Minimalist design invites personalization
-    - Café racer and scrambler builds are easier to execute
+## Custom Culture and Social Media Buzz
 
-    Riders want bikes that reflect their personality, not just raw horsepower. Retro bikes – with their exposed components and clean lines – make excellent canvases.
+Retro bikes dominate platforms like *Instagram*, where custom builds and vintage-style shots outshine modern sportbikes. Why? Custom culture thrives here:
 
-    This DIY and identity-driven approach is especially appealing to younger riders who grew up online and value aesthetics alongside utility.
+- **Accessible Parts**: Bolt-on upgrades are widely available.
+- **Minimalist Design**: Perfect for personalization.
+- **Build-Friendly**: Café racers and scramblers are easy to customize.
 
-    ## The Future of Retro: Electrification and Expansion
+Riders want bikes that reflect their *identity*, not just speed. Retro bikes, with exposed components and clean lines, are ideal canvases for unique rides that shine online and on the road.
 
-    The retro-modern trend is evolving, not fading. Manufacturers are already exploring electric retro bikes, combining vintage styling with zero-emission tech.
+## The Future: Retro Meets Electric
 
-    Examples include:
+The retro-modern trend is evolving, not fading. Brands are merging vintage style with electric powertrains, including:
 
-    - **BMW CE 02** – A quirky, retro-futuristic electric minibike
-    - **Royal Enfield's electric concept**, expected by 2026
-    - **CAKE and Super73**, blending café racer looks with e-bike functionality
+- **BMW CE 02**: A retro-futuristic electric minibike.
+- **Royal Enfield’s Electric Concept**: Expected by 2026.
+- **CAKE and Super73**: Café racer aesthetics in e-bike form.
 
-    Even as governments push for electrification, brands recognize that design legacy matters. The challenge now is delivering authentic styling with modern powertrains – without losing the soul that made these bikes popular.
+As electrification grows, brands ensure classic design remains relevant, balancing heritage with *zero-emission* innovation.
 
-    ## Conclusion
+## Conclusion: The Best of Both Worlds
 
-    Retro motorcycles aren't just a trend, they're a reaction. In a world of digital dashboards, AI assistants and silent EVs, riders are turning to machines that feel tangible, expressive and timeless. But make no mistake: these aren't outdated relics. Under the retro skin lies some of the most refined, reliable and approachable tech on two wheels.
+Retro motorcycles aren't a fleeting trend—they're a rebellion against sterile digital dashboards and silent EVs. Riders crave machines that feel *real*, *expressive*, and *timeless*. Yet, these aren't relics. Beneath the vintage shell lies advanced, reliable tech that makes riding safer and more enjoyable.
 
-    The retro-modern bike represents the best of both worlds – the soul of yesterday, powered by the reliability of today. And judging by current sales and community engagement, that formula isn't going away anytime soon.
-        `,
-        images: [
-        {
-            src: "/motorcycle-retro.jpg",
-            alt: "Classic motorcycle with modern technology",
-            caption: "Modern retro motorcycles blend classic styling with cutting-edge technology"
-        }
-        ]
+Retro-modern bikes deliver the soul of the past with the performance of today. With booming sales and vibrant communities, this fusion of *old-school cool* and *new-age tech* is here to stay. `,
+   
     },
-    {
-        id: "ev-muscle-cars-charger-daytona",
-        title: "Are EV Muscle Cars Like the Charger Daytona SRT the Future – or Just a Phase?",
-        excerpt: "For decades, muscle cars were defined by three things: big displacement, rear-wheel drive and a snarling V8 soundtrack. But the future is coming fast – and it's electric.",
-        image: "/carhome.jpg?height=300&width=500",
-        date: "June 18, 2025",
-        readTime: "10 min read",
-        content: `
-    # Are EV Muscle Cars Like the Charger Daytona SRT the Future – or Just a Phase?
-
-    For decades, muscle cars were defined by three things: big displacement, rear-wheel drive and a snarling V8 soundtrack. But the future is coming fast – and it's electric. Leading the charge (literally) is Dodge, the most unapologetically aggressive muscle brand in America. With the unveiling of the Dodge Charger Daytona SRT EV, the company isn't just introducing a new car – it's launching an entirely new muscle era.
-
-    ## The Electric Revolution Hits Muscle Cars
-
-    The transition from gasoline to electric power represents one of the most significant shifts in automotive history. For muscle car enthusiasts, this change feels particularly jarring. How do you maintain the soul of a muscle car when you remove its beating heart – the V8 engine?
-
-    Dodge's answer is the Charger Daytona SRT EV, a bold reimagining of what electric muscle can be. This isn't just an electric car with aggressive styling; it's a complete rethinking of performance, sound, and attitude for the EV era.
-
-    ## Performance That Speaks Louder Than Words
-
-    The numbers are impressive: the Charger Daytona SRT EV promises over 670 horsepower, 0-60 mph in under 3.5 seconds, and a top speed exceeding 180 mph. These figures put it in supercar territory, far beyond what traditional muscle cars could achieve.
-
-    But raw numbers only tell part of the story. The instant torque delivery of electric motors creates an entirely different driving experience – one that's arguably more intense than traditional muscle cars ever provided.
-
-    ## The Sound Question
-
-    Perhaps the biggest challenge for electric muscle cars is sound. The rumble of a V8 isn't just noise; it's an emotional trigger that connects drivers to their machines. Dodge has attempted to address this with their "Fratzonic Chambered Exhaust" system, which uses speakers and resonators to create an artificial V8-like sound.
-
-    Critics argue this feels inauthentic, while supporters claim it's necessary evolution. The truth likely lies somewhere in between – electric muscle cars will need to find their own sonic identity rather than simply mimicking the past.
-
-    ## Market Reception and Future Outlook
-
-    Early reception has been mixed but intriguing. Traditional muscle car enthusiasts remain skeptical, while younger buyers and tech-forward consumers show genuine interest. The success of electric muscle cars will likely depend on their ability to attract new audiences while gradually converting existing fans.
-
-    The future of electric muscle cars isn't just about Dodge. Ford has hinted at electric Mustang variants, and GM continues developing high-performance electric platforms. The segment is evolving rapidly.
-
-    ## Conclusion: Evolution or Revolution?
-
-    Electric muscle cars like the Charger Daytona SRT represent both evolution and revolution. They evolve the performance aspect of muscle cars to new heights while revolutionizing how we think about automotive soul and character.
-
-    Whether this represents the future or just a phase remains to be seen. But one thing is certain: the automotive landscape is changing, and electric muscle cars are leading that charge.
-        `
-    },
+ 
     {
     "id": "car-names-that-shouldve-been-laughed-out-of-the-room",
     "title": "Car Names That Should’ve Been Laughed Out of the Room",
     "excerpt": "Some of the worst car names in automotive history were not accidents. They were pitched in meetings, vetted by legal, pushed by marketing, and approved at the highest levels. Entire teams signed off on names they thought sounded bold or forward-thinking. What left the boardroom as a branding win often landed on the dealership floor as a joke. The car stayed the same. What changed was how people talked about it.",
-    "image": "/car-name-bloopers.jpg?height=300&width=500",
+    "image": "/cars.webp?height=300&width=500",
     "date": "September 18, 2025",
     "readTime": "12 min read",
-    "content": "There’s a difference between strange and stupid, and car companies cross that line more often than they realize. With the wrong name, a perfectly functional car becomes forgettable or mocked before it ever gets a chance. One bad name turns a decent coupe into a punchline. The industry has done it over and over. These aren’t rare slip-ups. They reflect how easily decisions get shaped by people too close to the process to hear how bad they sound to anyone else.\n\n### Ford Probe is still the benchmark for branding misfires\n\nFord didn’t stumble into the name “Probe.” It was a deliberate attempt to make a front-wheel-drive coupe sound sleek and high-tech. It borrowed its name from a line of Ford concept cars meant to showcase innovation. The car itself wasn’t bad. Developed with Mazda under Ford’s global platform strategy, it offered respectable performance for the time. It wasn’t fast, but it was agile and priced to move.\n\nBut none of that mattered once people heard the name. It didn’t sound like a car. It sounded like a hospital procedure. Ford had even considered positioning the Probe as the next-generation Mustang, a plan scrapped after backlash from purists and the public. Even drivers who liked the car had to grit their teeth every time they said what they drove. One awkward word on the trunk was enough to drown out every other aspect of the car’s design or engineering. It might have been aiming for a futuristic import fighter. Instead, it landed with a name nobody wanted to say out loud.\n\n### AMC Gremlin leaned into absurdity — and got away with it\n\nAMC needed a subcompact, and they needed it fast. Imports were gaining ground in the early ’70s, and the Big Three were scrambling to keep up. AMC’s answer was to rush a new design to market and give it a name that sounded like a mechanical failure. It didn’t sound mischievous. It sounded broken: fried wiring, stalling engines, and dash lights that wouldn’t shut off. It was a joke name, except AMC wasn’t joking.\n\nThe design didn’t help. The Gremlin looked like a Hornet that had been rear-ended and left that way. From day one, the car had a cartoon mascot and leaned into its own weirdness. AMC tried to sell the weirdness as rebellion. But buyers don’t want their car to sound cursed, and the name did more damage than the sheet metal ever could. Despite years of decent sales, the Gremlin became a punchline. It’s remembered less for what it was than what it was called. AMC went for bold in a market that was playing it safe. What they got was a car that people still talk about, just not the way they hoped.\n\n### The Mitsubishi Lettuce proves someone should’ve said no\n\nMitsubishi didn’t just greenlight a weird name. They called the car Lettuce and leaned in. Technically, it was a trim variant of the Mirage, but that didn’t stop the company from branding it like a tossed salad. There was no lettuce-green paint, no garden-themed marketing, and no clever pun in Japanese to save it. The name was simply... Lettuce. No one stopped it.\n\nWhat makes the Lettuce so baffling isn’t the car. It’s that no one in the room said, “Hold on.” Mitsubishi introduced it during the early ’90s, a time when Japanese automakers were experimenting wildly with kei cars and niche subcompacts. Some names like Pajero Mini or Nissan S-Cargo had at least some charm or internal logic. The Lettuce didn’t. It was plain, unremarkable, and best known for its name being memed decades later.\n\nUnlike the Gremlin or the Probe, the Lettuce didn’t provoke outrage or loyalist backlash. It just quietly existed with one of the most mockable names in automotive history. The car faded. The name didn’t. That disconnect between the utter blandness of the car and the surreal boldness of the name makes it feel less like branding and more like a dare.",
-    "images": [
-        {
-        "src": "/car-name-bloopers-main.jpg",
-        "alt": "A collection of cars with questionable names",
-        "caption": "A collection of cars with names that should have been vetoed."
-        }
-    ]
+    "content": `# Car Names That Should’ve Been Laughed Out of the Room
+
+Some car names in automotive history are so bizarre they seem like pranks. Yet, these names weren’t accidents—they were pitched in boardrooms, vetted by legal teams, championed by marketing, and approved at the highest levels. What started as a bold branding move often landed as a punchline on the dealership floor. The cars themselves? Often fine. The names? Let’s just say they didn’t do them any favors.
+
+## Why Car Names Matter
+
+A car’s name is its first impression, a chance to evoke power, style, or adventure. But when it misses the mark, it can overshadow the vehicle’s merits. Bad names can confuse buyers, alienate markets, or simply invite ridicule. From cultural missteps to outright head-scratchers, here’s a look at some of the worst offenders in automotive naming history.
+
+## The Hall of Shame: Infamous Car Names
+
+These cars prove that even great engineering can’t save a terrible name:
+
+- **Ford Probe**: Launched in 1988, the name suggested an alien invasion or a medical procedure, not a sleek sports coupe. It flopped, despite decent performance.
+- **Mazda LaPuta**: In Spanish, "la puta" translates to a vulgar term for a prostitute. Mazda’s 1999 minicar was a marketing disaster in Spanish-speaking markets.
+- **Mitsubishi Pajero**: Another Spanish blunder, as "pajero" is slang for a crude term in some Latin American countries. It was renamed Montero in those regions.
+- **AMC Gremlin**: Launched in 1970, the name evoked mischievous creatures, not a compact car aiming for reliability. It became a punchline, despite its quirky charm.
+- **Chevrolet Nova**: The myth persists that "no va" means "doesn’t go" in Spanish, hurting sales in Latin America. While debunked, the name still carried baggage.
+
+These names turned heads for all the wrong reasons, often undermining solid engineering with unintended connotations or sheer oddity.
+
+![A collection of cars with questionable names](/car-name-bloopers-main.jpg "A collection of cars with names that should have been vetoed")
+
+## How Did These Names Happen?
+
+How do such names make it to production? The process involves multiple layers:
+
+- **Brainstorming Gone Wild**: Marketing teams chase bold, edgy, or futuristic vibes, sometimes ignoring cultural nuances.
+- **Lost in Translation**: Names vetted in one language flop in others due to poor localization research.
+- **Groupthink**: Entire teams convince themselves a name is clever, missing how it sounds to outsiders.
+- **Trend Chasing**: Attempts to sound modern or quirky often age poorly or feel forced.
+
+For example, the **Ford Probe** was meant to evoke cutting-edge technology, but it landed as invasive or awkward. Similarly, **Mazda LaPuta** aimed for a nod to *Gulliver’s Travels* (Laputa is a fictional island), but no one checked its Spanish translation.
+
+## The Impact of a Bad Name
+
+A bad name doesn’t just spark giggles—it can hurt sales and brand reputation. The **Chevrolet Nova**, despite the myth, still faced skepticism in some markets due to its name’s perceived meaning. The **AMC Gremlin** leaned into its quirky branding but alienated buyers looking for a serious compact car. In contrast, strong names like **Mustang** or **Challenger** evoke power and heritage, boosting appeal.
+
+## Can Bad Names Be Redeemed?
+
+Some cars overcome their naming woes through performance or cult status:
+
+- **AMC Gremlin**: Its oddball charm eventually won over enthusiasts, making it a retro icon.
+- **Toyota MR2**: Pronounced "Mister Two" in English, but in French, it sounded like a vulgar term. Still, its sporty performance earned it a loyal following.
+
+However, most cars with bad names fade into obscurity, remembered more for their marketing missteps than their road performance.
+
+## The Future of Car Naming
+
+As automakers shift to electric vehicles and global markets, naming is more critical than ever. Brands like **Tesla** (with Model S, X, Y) keep it simple, while others like **Rivian** (R1T, R1S) aim for rugged appeal. The lesson? Names should be memorable, culturally sensitive, and evocative without trying too hard.
+
+## Conclusion: A Name Says It All
+
+A car’s name can make or break its legacy. The **Ford Probe**, **Mazda LaPuta**, and others remind us that even the best vehicles can stumble with a poorly chosen name. As the automotive industry evolves, brands must balance creativity with clarity to avoid landing in the hall of naming shame. The next time you hear a new car name, ask yourself: will it inspire awe—or just laughter?`,
+
     },
     {
         id: "forgotten-supercars-hidden-icons",
@@ -244,91 +244,75 @@
   id: "slate-auto-minimalist-ev-truck",
   title: "Why Slate Auto's Minimalist $20K EV Truck May Be the Biggest Disruption in the U.S.",
   excerpt: "When Slate Auto unveiled its entry-level electric pickup earlier this year, it didn't come with a panoramic screen, complex driver-assist features or even power windows. Instead, the Jeff Bezos–backed startup delivered something unexpected: a bare-bones EV truck with a starting price of $20,000.",
-  image: "/carhome.jpg?height=300&width=500",
+  image: "/slate.jpg?height=300&width=500",
   date: "September 15, 2025",
   readTime: "11 min read",
   content: `
-# Why Slate Auto's Minimalist $20K EV Truck May Be the Biggest Disruption in the U.S.
+  # Why Slate Auto's Minimalist $20K EV Truck May Be the Biggest Disruption in the U.S.
 
-When Slate Auto unveiled its entry-level electric pickup earlier this year, it didn't come with a panoramic screen, complex driver-assist features or even power windows. Instead, the Jeff Bezos–backed startup delivered something unexpected: a bare-bones EV truck with a starting price of $20,000 (after incentives), something unheard of in an era where even compact EVs regularly breach $30K.
+When **Slate Auto** unveiled its entry-level electric pickup, it skipped the panoramic screens, complex driver-assist systems, and even power windows. Backed by Jeff Bezos, this startup delivered something radical: a bare-bones EV truck starting at **$20,000** (after incentives)—a price unheard of when even compact EVs often top $30,000.
 
-Within weeks, Slate had amassed over 100,000 reservations, proving that there's a massive, underserved market for affordable electric workhorses. As production ramps up in Indiana and deliveries inch closer, it's becoming increasingly clear: this minimalist pickup might be the biggest disruption the U.S. EV market has seen in years.
+Within weeks, Slate racked up over **100,000 reservations**, revealing a massive, underserved market for affordable electric workhorses. As production gears up in Indiana and deliveries approach, this minimalist pickup could be the biggest disruption the U.S. EV market has seen in years.
 
 ## Breaking the Mold: What Makes Slate Different
 
-At a time when electric trucks like the Ford F-150 Lightning, Rivian R1T and Tesla Cybertruck emphasize tech, luxury and high performance, with prices often exceeding $60,000, Slate took the opposite approach. It stripped the truck down to the essentials:
+While electric trucks like the **Ford F-150 Lightning**, **Rivian R1T**, and **Tesla Cybertruck** chase tech, luxury, and high performance with price tags often exceeding $60,000, Slate took a different path. It stripped the truck to its essentials:
 
-- A lightweight chassis and modular battery pack
-- Manual window cranks and basic controls  
-- A utilitarian interior designed for work, not show
+- Lightweight chassis with a modular battery pack
+- Manual window cranks and basic controls
+- Utilitarian interior built for work, not flash
 
-The idea is simple: give buyers a functional electric pickup at a price they can actually afford. The company has described its approach as "right-sized technology", focusing on utility over complexity.
+Slate calls this "right-sized technology," prioritizing utility over complexity to deliver a functional electric pickup at a price most can afford.
 
-## How It Stacks Up
+![Slate Auto EV Pickup](/slate-ev-truck.jpg "Slate Auto's minimalist electric pickup")
 
-While Slate's truck doesn't compete head-to-head with high-powered EV pickups, its disruptive nature lies in price and accessibility.
 
-| Truck Model | Starting Price | Range (Est.) | Notable Features |
-|-------------|---------------|--------------|------------------|
-| Slate Auto EV Pickup | $20K (after incentives) | 200+ miles | Minimalist design, modular add-ons |
-| Ford F-150 Lightning | $52K | 240–320 mi | Advanced tech, full-size capability |
-| Tesla Cybertruck | $57K | 250–500 mi | High performance, polarizing design |
-| Rivian R1T | $69K | 270–350 mi | Off-road focused, upscale features |
+## The Modular Ecosystem: Customize on Demand
 
-This table shows Slate isn't competing in horsepower wars or luxury features. Instead, it's targeting buyers who want simple utility at half the price of its closest competitors.
+Slate’s innovation shines in its modular ecosystem. Buyers start with a bare-bones truck and can add features later, such as:
 
-## The Modular Ecosystem: Customizing on Demand
-
-One of Slate's key innovations isn't visible at launch – it's the truck's modular ecosystem. Buyers can start with the bare-minimum pickup and later add features like:
-
-- An upgraded infotainment kit with stereo and touchscreen
+- Upgraded infotainment with stereo and touchscreen
 - Larger battery modules for extended range
 - Cargo box extensions or camper-style conversions
 
-This approach keeps upfront costs low while letting owners expand capability over time. In practice, it's similar to how smartphone users buy base models and add accessories later. This modularity not only keeps pricing flexible but also shortens production time since all trucks leave the factory in a standard configuration.
+This keeps upfront costs low while allowing owners to upgrade over time, much like adding accessories to a smartphone. It also streamlines production, as all trucks leave the factory in a standard configuration.
 
 ## Why It Resonates: A Shift in Consumer Priorities
 
-The overwhelming reservation numbers show Slate tapped into a latent demand. While premium EVs grab headlines, many Americans, especially in rural or working-class communities, need basic, affordable trucks for everyday use.
-
-A fully-loaded Rivian or Lightning is overkill for someone hauling tools to a job site or running farm errands. By skipping luxury frills and software gimmicks, Slate made EV ownership approachable for a demographic that's often overlooked in the electrification conversation.
+Slate’s **100,000+ reservations** highlight a latent demand. While premium EVs dominate headlines, many Americans—especially in rural or working-class communities—need affordable trucks for daily tasks. A fully loaded Rivian or Lightning is overkill for hauling tools or running farm errands. Slate’s no-frills approach makes EV ownership accessible to those often ignored in the electrification push.
 
 ## Production Plans and Pricing Challenges
 
-Slate's Indiana plant is scheduled to begin building trucks in late 2026, with initial output capped to ensure quality control. Although federal EV tax credits initially helped keep the target price below $20,000, those incentives are set to expire, raising the effective base price closer to $27,500.
+Slate’s Indiana plant is set to start production in late 2026, with initial output limited to ensure quality. Federal EV tax credits initially pushed the price below $20,000, but with incentives expiring, the base price may rise to **$27,500**. Still, Slate undercuts competitors thanks to:
 
-Despite this, Slate says it will still undercut competitors by a large margin thanks to:
+- **Simplified Manufacturing**: Fewer parts, no complex infotainment
+- **Vertical Integration**: In-house battery and drivetrain production
+- **Volume Strategy**: Targeting 250,000 units annually within three years
 
-- **Simplified manufacturing**: Fewer parts and no complex infotainment systems
-- **Vertical integration**: In-house battery and drivetrain production
-- **Volume-focused strategy**: Scaling to 250,000 units annually within three years
-
-Whether Slate can maintain margins at this price point remains a big question, but the startup argues that its lean design philosophy gives it a structural cost advantage over legacy automakers.
+Maintaining margins at this price is a challenge, but Slate’s lean design gives it a cost advantage over legacy automakers.
 
 ## A Potentially Massive Market Shift
 
-If Slate succeeds, the implications for the U.S. automotive market are huge. By proving that an EV pickup can be profitable at mass-market pricing, it could force established players to rethink their strategies.
+If Slate succeeds, it could reshape the U.S. automotive market. A profitable EV pickup at mass-market pricing would pressure giants like **Ford**, **GM**, and **Stellantis** to rethink their high-margin truck strategies. Just as Japanese automakers disrupted Detroit in the 1970s with affordable cars, Slate could force competitors to offer simpler, cheaper EVs.
 
-Automakers like Ford, GM and Stellantis currently rely on high-margin trucks to fund their EV transitions. An affordable competitor would pressure them to produce simpler, cheaper EV models, much like Japanese automakers disrupted Detroit in the 1970s with efficient, budget-friendly cars.
-
-EV adoption overall could accelerate. One of the biggest barriers to electrification is cost. A reliable electric truck at $20K, or even under $30K, brings EVs within reach of millions of new buyers, especially those who've resisted the transition due to high entry prices.
+This could accelerate EV adoption. Cost remains a major barrier, and a reliable electric truck under $30,000 brings EVs within reach for millions, especially those hesitant due to high prices.
 
 ## Challenges on the Road Ahead
 
-Slate's disruptive vision doesn't come without hurdles:
+Slate faces significant hurdles:
 
-- **Production Scaling**: Building a new truck plant and supply chain from scratch is notoriously difficult
-- **Range Limitations**: A base range of just over 200 miles could be a sticking point for some buyers
-- **Competition**: Major automakers may fast-track affordable EV pickups in response, leveraging existing dealer networks and brand loyalty
-- **Durability Perception**: Stripped-down interiors and minimal electronics might be misinterpreted as "cheap," rather than intentional simplicity
+- **Production Scaling**: Building a new plant and supply chain is daunting
+- **Range Limitations**: 200+ miles may deter some buyers
+- **Competition**: Major automakers could counter with affordable EV pickups
+- **Perception Risks**: Minimalist interiors might be seen as “cheap” rather than intentional
 
-How Slate navigates these issues will determine if its truck becomes a true market shaker or a niche product.
+How Slate tackles these will determine if it’s a market disruptor or a niche player.
 
-## Conclusion
+## Conclusion: A Game-Changer in the Making?
 
-Slate Auto's $20K minimalist EV truck is more than a budget-friendly pickup – it's a challenge to the entire way electric vehicles are designed, priced and sold in the U.S. By cutting out luxuries and focusing on essential utility, Slate is making EV ownership realistic for working Americans and everyday drivers who've been priced out of the market.
+Slate Auto’s $20K EV truck isn’t just a budget pickup—it’s a challenge to how electric vehicles are designed, priced, and sold. By focusing on utility over luxury, Slate makes EV ownership realistic for everyday drivers priced out of the market.
 
-If production meets expectations and consumer demand holds, Slate could reshape not only the electric truck segment but also the broader EV adoption curve. In a market saturated with premium models and tech-laden designs, Slate's no-frills approach feels not just refreshing – but potentially revolutionary.
+If production scales and demand holds, Slate could redefine the electric truck segment and accelerate EV adoption. In a market full of tech-heavy, premium models, Slate’s minimalist approach isn’t just refreshing—it’s potentially revolutionary.
   `,
   images: [
     {
@@ -346,99 +330,78 @@ image: "/carhome.jpg?height=300&width=500",
   date: "September 10, 2025",
   readTime: "13 min read",
   content: `
-# All About BYD's Megawatt Flash Chargers: 400 km in 5 Minutes and 15,000 Stations Coming
+# All About BYD's Megawatt Flash Chargers: 400 km in 5 Minutes and 15,000 Stations
 
-Electric vehicle charging has long been a sticking point for EV adoption. While battery technology continues to evolve, charging times remain a barrier for drivers used to five-minute gas station visits. That's why BYD's new "Megawatt Flash Chargers", capable of delivering 400 kilometers of range in just five minutes, represent a seismic leap not just for the company, but for the entire EV ecosystem.
+Electric vehicle (EV) charging has long been a hurdle for widespread adoption. While battery technology advances, charging times lag behind the five-minute gas station stops drivers expect. Enter **BYD's Megawatt Flash Chargers**, delivering *400 kilometers of range in just five minutes*—a game-changer for the EV ecosystem. China’s largest EV maker is going further, planning to deploy **15,000** of these ultra-fast chargers nationwide, redefining charging speed and infrastructure.
 
-China's largest EV maker isn't stopping there. BYD has announced plans to roll out 15,000 of these ultra-fast chargers nationwide, reshaping charging expectations and infrastructure design.
+![BYD Megawatt Flash Charger](/byd-charger.jpg "BYD's Megawatt Flash Charger delivering ultra-fast EV charging")
 
-## How Fast is "Megawatt" Fast?
+## How Fast Is "Megawatt" Fast?
 
-The headline figure, 400 km in 5 minutes, translates to a power output of 1 megawatt (1,000 kW). To put this in perspective:
 
-| Charger Type | Peak Output | Typical Charging Speed |
-|--------------|-------------|------------------------|
-| Tesla V3 Supercharger | 250 kW | ~290 km in 15 minutes |
-| Tesla V4 Supercharger (2025) | 500 kW | ~350 km in 10 minutes |
-| Current High-Speed CCS (Europe) | 350 kW | ~300 km in 12 minutes |
-| BYD Megawatt Flash Charger | 1,000 kW | 400 km in 5 minutes |
 
-This makes BYD's charger four times as powerful as today's common fast chargers and twice as fast as Tesla's latest rollout. It effectively narrows the gap between filling a gas tank and recharging an EV, a psychological barrier many consumers cite as a reason for not switching.
+BYD’s chargers are *twice as fast* as Tesla’s latest V4 Superchargers and four times more powerful than typical fast chargers, closing the gap between EV charging and gas refueling.
 
-## The Technology Behind the Speed
+## The Technology Powering the Speed
 
-BYD's innovation isn't just about pushing more current into the car. To achieve megawatt-level charging safely and reliably, several engineering breakthroughs are at play:
+Achieving megawatt-level charging requires more than just raw power. BYD’s breakthroughs ensure safety and reliability:
 
-### Advanced Cooling Systems
-High-current charging generates substantial heat. BYD developed next-gen liquid-cooled cables and connectors to manage thermal load without making cables unwieldy.
+- **Advanced Cooling**: Liquid-cooled cables and connectors manage heat, keeping cables lightweight and user-friendly.
+- **Energy Storage Buffers**: Built-in batteries store energy to reduce grid strain during peak charging.
+- **High-Efficiency Electronics**: Silicon carbide (SiC) modules handle high voltages with minimal energy loss.
+- **Smart Battery Sync**: Vehicle-to-charger protocols optimize power flow, protecting batteries while maximizing speed.
 
-### Energy Storage Buffers
-Each charging station incorporates built-in battery storage. This avoids massive spikes in grid demand during rapid charging sessions, enabling deployment even in areas with moderate electrical infrastructure.
+As a vertically integrated company, BYD leverages its expertise in batteries, electronics, and vehicles to deliver this cutting-edge technology.
 
-### High-Efficiency Power Electronics
-BYD's proprietary silicon carbide (SiC) power modules improve efficiency and handle higher voltages with minimal energy loss.
+## BYD’s Massive Rollout Plan
 
-### Smart Battery Communication
-Vehicle-to-charger protocols dynamically adjust power flow to protect the car's battery while maintaining ultra-fast charging speeds.
+BYD isn’t testing the waters—it’s diving in with a nationwide network:
 
-These advances reflect BYD's position not just as an automaker, but as a vertically integrated technology company – producing batteries, power electronics and complete vehicles in-house.
-
-## The Scale of BYD's Rollout
-
-BYD isn't piloting a few showcase stations; it's launching a nationwide megawatt network:
-
-- **Total stations planned**: 15,000
+- **Total Stations**: 15,000 planned
 - **Partners**: Xiaoju Charging (10,000 stations), LongShine (5,000 stations)
-- **Current operational**: Over 500 stations across 200 Chinese cities
-- **Timeline**: Full deployment expected within 3–4 years
+- **Current Reach**: Over 500 stations across 200 Chinese cities
+- **Timeline**: Full deployment within 3–4 years
 
-This rollout dwarfs Tesla's expansion rate in China and rivals the combined efforts of several traditional charging networks. Crucially, BYD's network isn't exclusive to its own vehicles – it's designed for open access, allowing other EV brands with compatible high-voltage architectures to use it.
+This scale outpaces Tesla’s expansion in China and rivals global charging networks. The open-access network supports other EV brands with compatible high-voltage systems, broadening its impact.
 
-## Impact on EV Design and Ownership
+## Reshaping EV Design and Ownership
 
-Megawatt charging doesn't just benefit charging stations – it's reshaping how electric vehicles are designed and marketed. With the ability to add 400 kilometers of range in just five minutes, automakers no longer need to rely on oversized battery packs to ease range anxiety. This allows them to use smaller and lighter batteries, which in turn reduces overall vehicle weight. The result is better handling, improved energy efficiency and lower production costs.
+Megawatt charging transforms how EVs are built and used. With 400 km of range added in five minutes, automakers can opt for *smaller, lighter batteries*, reducing vehicle weight, improving efficiency, and lowering costs. This makes EVs more affordable and agile, easing range anxiety without oversized packs.
 
-This also means manufacturers can pass some of those savings on to consumers, potentially making EVs more affordable. Most importantly, it changes the long-distance travel experience. With chargers this fast, an EV road trip will feel much closer to refueling a gasoline vehicle – a quick stop instead of a planned half-hour break.
+For drivers, long-distance travel becomes seamless—quick charging stops mirror gas station visits. BYD’s latest e-Platform vehicles, from high-end SUVs to budget models, are designed to harness these chargers, ensuring fast charging across price points.
 
-BYD's upcoming models, built on its latest e-Platform, are designed to fully take advantage of these chargers. High-end sedans and SUVs will handle near-megawatt charging rates, while even budget models will see significant improvements in how quickly they can get back on the road.
+## BYD vs. Tesla: The Charging Race
 
-## BYD vs. Tesla: The Charging Arms Race
+Tesla’s Supercharger network has long led the industry, but BYD’s Megawatt Flash Chargers challenge its dominance, especially in China:
 
-Tesla has long held an infrastructure advantage with its Supercharger network, but BYD's initiative threatens to shift the balance – particularly in China:
+- **Power Advantage**: 1,000 kW vs. Tesla’s 500 kW V4
+- **Faster Rollout**: BYD’s partnerships could surpass Tesla’s station count by 2026
+- **Open Ecosystem**: Unlike Tesla’s once-closed system, BYD supports CCS and GB/T standards for broader compatibility
 
-- **Power Output**: BYD's 1 MW eclipses Tesla's 500 kW V4 Superchargers
-- **Deployment Speed**: BYD's partnership-driven rollout could surpass Tesla's station count within China by 2026
-- **Ecosystem Integration**: Unlike Tesla's once-proprietary approach, BYD embraces cross-brand compatibility, aligning with broader CCS and GB/T standards
+Tesla may counter with megawatt upgrades, but BYD’s scale and home-market strength give it a head start.
 
-Tesla is expected to respond with megawatt-capable updates, but BYD's scale and domestic market dominance provide a strong head start.
+## Overcoming Challenges: Grid and Safety
 
-## Overcoming Challenges: Grid and Safety Concerns
+Delivering 1 MW in minutes raises concerns, but BYD has solutions:
 
-Delivering one megawatt to a single vehicle in minutes is no small feat and it raises legitimate questions:
+- **Grid Stability**: Battery buffers store energy during low-demand periods, enabling rapid charging without overloading grids.
+- **Connector Durability**: Liquid cooling and robust materials ensure cables withstand repeated high-power use.
+- **Battery Longevity**: Advanced lithium-iron-phosphate (LFP) cells and thermal management minimize degradation from fast charging.
 
-### Grid Load
-Simultaneous high-power sessions could strain local grids. BYD's battery-buffered stations address this, storing energy during low-demand periods for rapid bursts.
+These innovations make megawatt charging both practical and sustainable.
 
-### Connector Durability
-Repeated megawatt transfers put stress on cables and connectors. Liquid cooling and robust materials are essential for long-term reliability.
+## Global Impact Beyond China
 
-### Battery Longevity
-Fast charging can degrade batteries faster. BYD's next-gen cells are designed for high-rate charging with minimal capacity loss, using advanced lithium-iron-phosphate (LFP) chemistries and improved thermal management.
+While focused on China, BYD plans to bring Megawatt Flash Chargers to Europe by 2027, aligning with its growing EV sales. In North America, differing standards (CCS, NACS) slow expansion, but pilot projects are in discussion. Global competitors are already studying BYD’s tech, and within five years, five-minute charging could become standard worldwide.
 
-With these mitigations, BYD argues that megawatt charging is not only feasible but sustainable.
-
-## What This Means for Drivers Outside China
-
-While BYD's rollout is focused on China initially, megawatt-level charging technology won't stay confined to one market. The company plans to bring compatible stations to parts of Europe by 2027, aligning with its growing EV sales there. In North America, expansion is slower due to differing charging standards like CCS and NACS, but pilot projects are already under discussion.
-
-Other players aren't standing still – European energy providers and U.S. startups are actively studying BYD's architecture, with an eye on replicating or licensing the technology. Within five years, charging an EV in five minutes could be a common experience in major markets around the world.
+![BYD Charging Network](/byd-network.jpg "BYD’s expanding network of ultra-fast chargers")
 
 ## A New Era for EV Charging
 
-BYD's megawatt flash chargers aren't just another incremental improvement – they're a transformative leap that addresses one of the last major barriers to mass EV adoption: charging time. By deploying 15,000 stations capable of adding 400 kilometers of range in five minutes, BYD is setting a new standard for speed, convenience and infrastructure scale.
+BYD’s Megawatt Flash Chargers aren’t just an upgrade—they’re a revolution. By delivering 400 km in five minutes across 15,000 stations, BYD eliminates one of the biggest barriers to EV adoption: charging time. For drivers, EVs will feel like an upgrade over gas vehicles. For the industry, it sparks a charging arms race that will drive global innovation.
 
-For drivers, it means EV ownership will feel far less like a compromise and more like a clear upgrade from internal combustion. For the industry, it signals a charging arms race that will spur innovation globally. And for BYD, it's a strategic move that strengthens its already formidable lead in the world's most competitive EV market.
-  `,
+BYD’s bold move cements its leadership in the world’s most competitive EV market, setting a new benchmark for speed, convenience, and scale.
+`,
   images: [
     {
       src: "charger.jpg",
@@ -451,7 +414,7 @@ For drivers, it means EV ownership will feel far less like a compromise and more
   id: "vws-h1-2025-ev-boom",
   title: "VW's H1 2025 EV Boom with 47% Growth in BEV Deliveries. What's Fueling the Momentum?",
   excerpt: "Volkswagen Group has delivered a standout performance in the first half of 2025: 465,500 BEVs shipped worldwide – a 47% year-over-year increase compared to H1 2024. This explosive growth didn't merely save face – it redefined Volkswagen's trajectory in the electrification era.",
- image: "/carhome.jpg?height=300&width=500",
+ image: "/voks.webp?height=300&width=500",
   date: "August 28, 2025",
   readTime: "14 min read",
   content: `
@@ -465,13 +428,6 @@ But this isn't just about raw numbers. It's about how VW is rewriting its strate
 
 Markets are moving at different speeds and Volkswagen's EV growth mirrors that. Here's a regional breakdown:
 
-| Region | H1 2025 BEV Deliveries | Year-on-Year Change | Share of VW BEV Volume |
-|--------|------------------------|-------------------|------------------------|
-| Western Europe | ~347,900 | +89% | ~75% |
-| U.S. | ~31,300 | +24% | ~7% |
-| China | ~59,400 | −34% | ~13% |
-| Rest of World | ~27,000 | +55% | ~6% |
-| **Global Total** | **465,500** | **+46.7%** | **100%** |
 
 Europe was the standout driver of VW's EV gains – with deliveries nearly doubling compared to last year, constituting roughly 20% of all VW deliveries in that market. Meanwhile in the U.S., BEV growth continues steadily upward despite policy uncertainty. By contrast, in China, VW's historic stronghold, BEV sales dropped 34%, as domestic competitors continue to take share.
 
@@ -542,13 +498,7 @@ For investors, robust EV volume growth, even while margins shrink, signals VW's 
 
 VW's 47% year-over-year jump in BEV deliveries, and resulting leap to 11% of total volumes, is more than just a jump in sales. It's evidence of a purposeful reinvention. From expanding EV lineups and infrastructure investments to tackling cost structures and preparing for regulatory change, Volkswagen is not just racing toward the future – it's shaping it.
   `,
-  images: [
-    {
-      src: "/vw-id-buzz-production-line.jpg",
-      alt: "Volkswagen ID.Buzz electric vans on production line",
-      caption: "VW's ID family, built on the modular MEB platform, has been the backbone of the company's 47% BEV growth in H1 2025"
-    }
-  ]
+
 },
 {
   id: "tesla-fans-flat-earthers",
