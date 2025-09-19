@@ -250,157 +250,209 @@ Each represents a different philosophy: the LFA's perfectionist engineering, the
 },
 
 
-  {
-    id: "car-names-that-shouldve-been-laughed-out-of-the-room",
-    title: "Car Names That Should've Been Laughed Out of the Room",
-    excerpt: "Some of the worst car names in automotive history were not accidents. They were pitched in meetings, vetted by legal, pushed by marketing, and approved at the highest levels. Entire teams signed off on names they thought sounded bold or forward-thinking. What left the boardroom as a branding win often landed on the dealership floor as a joke. The car stayed the same. What changed was how people talked about it.",
-    image: "/cars.webp?height=300&width=500",
-    date: "September 18, 2025",
-    readTime: "12 min read",
-    content: `# Car Names That Should've Been Laughed Out of the Room
+{
+  id: "car-names-that-shouldve-been-laughed-out-of-the-room",
+  title: "Car Names That Should've Been Laughed Out of the Room",
+  excerpt: "Some of the worst car names in automotive history were not accidents. They were pitched in meetings, vetted by legal, pushed by marketing, and approved at the highest levels. Entire teams signed off on names they thought sounded bold or forward-thinking. What left the boardroom as a branding win often landed on the dealership floor as a joke. The car stayed the same. What changed was how people talked about it.",
+  image: "/cars.webp?height=300&width=500",
+  date: "September 18, 2025",
+  readTime: "12 min read",
+  content: `# Car Names That Should’ve Been Laughed Out of the Room
 
-Some car names in automotive history are so bizarre they seem like pranks. Yet, these names weren't accidents—they were pitched in boardrooms, vetted by legal teams, championed by marketing, and approved at the highest levels. What started as a bold branding move often landed as a punchline on the dealership floor. The cars themselves? Often fine. The names? Let's just say they didn't do them any favors.
+Some of the worst car names in automotive history were not accidents. They were pitched in
+meetings, vetted by legal, pushed by marketing, and approved at the highest levels. Entire
+teams signed off on names they thought sounded bold or forward-thinking. What left the
+boardroom as a branding win often landed on the dealership floor as a joke. The car stayed the
+same. What changed was how people talked about it.
 
-## Why Car Names Matter
+There’s a difference between strange and stupid, and car companies cross that line more often
+than they realize. With the wrong name, a perfectly functional car becomes forgettable or
+mocked before it ever gets a chance. One bad name turns a decent coupe into a punchline. The
+industry has done it over and over. These aren’t rare slip-ups. They reflect how easily decisions
+get shaped by people too close to the process to hear how bad they sound to anyone else.
 
-A car's name is its first impression, a chance to evoke power, style, or adventure. But when it misses the mark, it can overshadow the vehicle's merits. Bad names can confuse buyers, alienate markets, or simply invite ridicule. From cultural missteps to outright head-scratchers, here's a look at some of the worst offenders in automotive naming history.
+## Ford Probe is still the benchmark for branding misfires
 
-## The Hall of Shame: Infamous Car Names
+Ford didn’t stumble into the name “Probe.” It was a deliberate attempt to make a front-wheel-
+drive coupe sound sleek and high-tech. It borrowed its name from a line of Ford concept cars
+meant to showcase innovation. The car itself wasn’t bad. Developed with Mazda under Ford’s
+global platform strategy, it offered respectable performance for the time. It wasn’t fast, but it was
+agile and priced to move.
 
-These cars prove that even great engineering can't save a terrible name:
+But none of that mattered once people heard the name. It didn’t sound like a car. It sounded like
+a hospital procedure. Ford had even considered positioning the Probe as the next-generation
+Mustang, a plan scrapped after backlash from purists and the public. Even drivers who liked the
+car had to grit their teeth every time they said what they drove. One awkward word on the trunk
+was enough to drown out every other aspect of the car’s design or engineering. It might have
+been aiming for a futuristic import fighter. Instead, it landed with a name nobody wanted to say
+out loud.
 
-- **Ford Probe**: Launched in 1988, the name suggested an alien invasion or a medical procedure, not a sleek sports coupe. It flopped, despite decent performance.
-- **Mazda LaPuta**: In Spanish, "la puta" translates to a vulgar term for a prostitute. Mazda's 1999 minicar was a marketing disaster in Spanish-speaking markets.
-- **Mitsubishi Pajero**: Another Spanish blunder, as "pajero" is slang for a crude term in some Latin American countries. It was renamed Montero in those regions.
-- **AMC Gremlin**: Launched in 1970, the name evoked mischievous creatures, not a compact car aiming for reliability. It became a punchline, despite its quirky charm.
-- **Chevrolet Nova**: The myth persists that "no va" means "doesn't go" in Spanish, hurting sales in Latin America. While debunked, the name still carried baggage.
+## AMC Gremlin leaned into absurdity — and got away with it
 
-These names turned heads for all the wrong reasons, often undermining solid engineering with unintended connotations or sheer oddity.
+AMC needed a subcompact, and they needed it fast. Imports were gaining ground in the early
+’70s, and the Big Three were scrambling to keep up. AMC’s answer was to rush a new design to
+market and give it a name that sounded like a mechanical failure. It didn’t sound mischievous. It
+sounded broken: fried wiring, stalling engines, and dash lights that wouldn’t shut off. It was a
+joke name, except AMC wasn’t joking.
 
-![A collection of cars with questionable names](/car-name-bloopers-main.jpg "A collection of cars with names that should have been vetoed")
+The design didn’t help. The Gremlin looked like a Hornet that had been rear-ended and left that
+way. From day one, the car had a cartoon mascot and leaned into its own weirdness. AMC tried
+to sell the weirdness as rebellion. But buyers don’t want their car to sound cursed, and the
+name did more damage than the sheet metal ever could. Despite years of decent sales, the
+Gremlin became a punchline. It’s remembered less for what it was than what it was called. AMC
+went for bold in a market that was playing it safe. What they got was a car that people still talk
+about, just not the way they hoped.
 
-## How Did These Names Happen?
+## The Mitsubishi Lettuce prove someone should’ve said no
 
-How do such names make it to production? The process involves multiple layers:
+Mitsubishi didn’t just greenlight a weird name. They called the car Lettuce and leaned in.
+Technically, it was a trim variant of the Mirage, but that didn’t stop the company from branding it
+like a tossed salad. There was no lettuce-green paint, no garden-themed marketing, and no
+clever pun in Japanese to save it. The name was simply... Lettuce. No one stopped it.
 
-- **Brainstorming Gone Wild**: Marketing teams chase bold, edgy, or futuristic vibes, sometimes ignoring cultural nuances.
-- **Lost in Translation**: Names vetted in one language flop in others due to poor localization research.
-- **Groupthink**: Entire teams convince themselves a name is clever, missing how it sounds to outsiders.
-- **Trend Chasing**: Attempts to sound modern or quirky often age poorly or feel forced.
+What makes the Lettuce so baffling isn’t the car. It’s that no one in the room said, “Hold on.”
+Mitsubishi introduced it during the early ’90s, a time when Japanese automakers were
+experimenting wildly with kei cars and niche subcompacts. Some names like Pajero Mini or
+Nissan S-Cargo had at least some charm or internal logic. The Lettuce didn’t. It was plain,
+unremarkable, and best known for its name being memed decades later.
 
-For example, the **Ford Probe** was meant to evoke cutting-edge technology, but it landed as invasive or awkward. Similarly, **Mazda LaPuta** aimed for a nod to *Gulliver's Travels* (Laputa is a fictional island), but no one checked its Spanish translation.
-
-## The Impact of a Bad Name
-
-A bad name doesn't just spark giggles—it can hurt sales and brand reputation. The **Chevrolet Nova**, despite the myth, still faced skepticism in some markets due to its name's perceived meaning. The **AMC Gremlin** leaned into its quirky branding but alienated buyers looking for a serious compact car. In contrast, strong names like **Mustang** or **Challenger** evoke power and heritage, boosting appeal.
-
-## Can Bad Names Be Redeemed?
-
-Some cars overcome their naming woes through performance or cult status:
-
-- **AMC Gremlin**: Its oddball charm eventually won over enthusiasts, making it a retro icon.
-- **Toyota MR2**: Pronounced "Mister Two" in English, but in French, it sounded like a vulgar term. Still, its sporty performance earned it a loyal following.
-
-However, most cars with bad names fade into obscurity, remembered more for their marketing missteps than their road performance.
-
-## The Future of Car Naming
-
-As automakers shift to electric vehicles and global markets, naming is more critical than ever. Brands like **Tesla** (with Model S, X, Y) keep it simple, while others like **Rivian** (R1T, R1S) aim for rugged appeal. The lesson? Names should be memorable, culturally sensitive, and evocative without trying too hard.
-
-## Conclusion: A Name Says It All
-
-A car's name can make or break its legacy. The **Ford Probe**, **Mazda LaPuta**, and others remind us that even the best vehicles can stumble with a poorly chosen name. As the automotive industry evolves, brands must balance creativity with clarity to avoid landing in the hall of naming shame. The next time you hear a new car name, ask yourself: will it inspire awe—or just laughter?`
-},
+Unlike the Gremlin or the Probe, the Lettuce didn’t provoke outrage or loyalist backlash. It just
+quietly existed with one of the most mockable names in automotive history. The car faded. The
+name didn’t. That disconnect between the utter blandness of the car and the surreal boldness of
+the name makes it feel less like branding and more like a dare.`
+}
+,
 
 {
-    id: "slate-auto-minimalist-ev-truck",
-    title: "Why Slate Auto's Minimalist $20K EV Truck May Be the Biggest Disruption in the U.S.",
-    excerpt: "When Slate Auto unveiled its entry-level electric pickup earlier this year, it didn't come with a panoramic screen, complex driver-assist features or even power windows. Instead, the Jeff Bezos–backed startup delivered something unexpected: a bare-bones EV truck with a starting price of $20,000.",
-    image: "/slate.jpg?height=300&width=500",
-    date: "September 15, 2025",
-    readTime: "11 min read",
-    content: `# Why Slate Auto's Minimalist $20K EV Truck May Be the Biggest Disruption in the U.S.
+  id: "slate-auto-minimalist-ev-truck",
+  title: "Why Slate Auto's Minimalist $20K EV Truck May Be the Biggest Disruption in the U.S.",
+  excerpt: "When Slate Auto unveiled its entry-level electric pickup earlier this year, it didn't come with a panoramic screen, complex driver-assist features or even power windows. Instead, the Jeff Bezos–backed startup delivered something unexpected: a bare-bones EV truck with a starting price of $20,000.",
+  image: "/slate.jpg?height=300&width=500",
+  date: "September 15, 2025",
+  readTime: "11 min read",
+  content: `# Why Slate Auto's Minimalist $20K EV Truck May Be the Biggest Disruption in the U.S.
 
-When Slate Auto unveiled its entry-level electric pickup earlier this year, it didn't come with a panoramic screen, complex driver-assist features or even power windows. Instead, the Jeff Bezos–backed startup delivered something unexpected: a bare-bones EV truck with a starting price of $20,000 (after incentives), something unheard of in an era where even compact EVs regularly breach $30K.
+When Slate Auto unveiled its entry-level electric pickup earlier this year, it didn’t come with a
+panoramic screen, complex driver-assist features or even power windows. Instead, the Jeff
+Bezos–backed startup delivered something unexpected: a bare-bones EV truck with a starting
+price of $20,000 (after incentives), something unheard of in an era where even compact EVs
+regularly breach $30K.
 
-Within weeks, Slate had amassed over 100,000 reservations, proving that there's a massive, underserved market for affordable electric workhorses. As production ramps up in Indiana and deliveries inch closer, it's becoming increasingly clear: this minimalist pickup might be the biggest disruption the U.S. EV market has seen in years.
+Within weeks, Slate had amassed over 100,000 reservations, proving that there’s a massive,
+underserved market for affordable electric workhorses. As production ramps up in Indiana and
+deliveries inch closer, it’s becoming increasingly clear: this minimalist pickup might be the
+biggest disruption the U.S. EV market has seen in years.
 
 ## Breaking the Mold: What Makes Slate Different
 
-At a time when electric trucks like the Ford F-150 Lightning, Rivian R1T and Tesla Cybertruck emphasize tech, luxury and high performance, with prices often exceeding $60,000, Slate took the opposite approach. It stripped the truck down to the essentials:
+At a time when electric trucks like the Ford F-150 Lightning, Rivian R1T and Tesla Cybertruck
+emphasize tech, luxury and high performance, with prices often exceeding $60,000, Slate took
+the opposite approach. It stripped the truck down to the essentials:
 
-• A lightweight chassis and modular battery pack
-• Manual window cranks and basic controls
-• A utilitarian interior designed for work, not show
+- A lightweight chassis and modular battery pack  
+- Manual window cranks and basic controls  
+- A utilitarian interior designed for work, not show  
 
-The idea is simple: give buyers a functional electric pickup at a price they can actually afford. The company has described its approach as "right-sized technology", focusing on utility over complexity.
+The idea is simple: give buyers a functional electric pickup at a price they can actually afford.
+The company has described its approach as “right-sized technology”, focusing on utility over
+complexity.
 
 ## How It Stacks Up
 
-While Slate's truck doesn't compete head-to-head with high-powered EV pickups, its disruptive nature lies in price and accessibility.
+While Slate’s truck doesn’t compete head-to-head with high-powered EV pickups, its disruptive
+nature lies in price and accessibility.
 
-| Truck Model | Starting Price | Range (Est.) | Notable Features |
-|-------------|----------------|--------------|------------------|
-| Slate Auto EV Pickup | $20K (after incentives) | 200+ miles | Minimalist design, modular add-ons |
-| Ford F-150 Lightning | $52K | 240–320 mi | Advanced tech, full-size capability |
-| Tesla Cybertruck | $57K | 250–500 mi | High performance, polarizing design |
-| Rivian R1T | $69K | 270–350 mi | Off-road focused, upscale features |
+| Truck Model          | Starting Price         | Range (Est.)   | Notable Features                     |
+|----------------------|------------------------|----------------|--------------------------------------|
+| Slate Auto EV Pickup | $20K (after incentives) | 200+ miles     | Minimalist design, modular add-ons   |
+| Ford F-150 Lightning | $52K                   | 240–320 mi     | Advanced tech, full-size capability  |
+| Tesla Cybertruck     | $57K                   | 250–500 mi     | High performance, polarizing design  |
+| Rivian R1T           | $69K                   | 270–350 mi     | Off-road focused, upscale features   |
 
-This table shows Slate isn't competing in horsepower wars or luxury features. Instead, it's targeting buyers who want simple utility at half the price of its closest competitors.
+This table shows Slate isn’t competing in horsepower wars or luxury features. Instead, it’s
+targeting buyers who want simple utility at half the price of its closest competitors.
 
 ## The Modular Ecosystem: Customizing on Demand
 
-One of Slate's key innovations isn't visible at launch – it's the truck's modular ecosystem. Buyers can start with the bare-minimum pickup and later add features like:
+One of Slate’s key innovations isn’t visible at launch – it’s the truck’s modular ecosystem.
+Buyers can start with the bare-minimum pickup and later add features like:
 
-• An upgraded infotainment kit with stereo and touchscreen
-• Larger battery modules for extended range
-• Cargo box extensions or camper-style conversions
+- An upgraded infotainment kit with stereo and touchscreen  
+- Larger battery modules for extended range  
+- Cargo box extensions or camper-style conversions  
 
-This approach keeps upfront costs low while letting owners expand capability over time. In practice, it's similar to how smartphone users buy base models and add accessories later. This modularity not only keeps pricing flexible but also shortens production time since all trucks leave the factory in a standard configuration.
+This approach keeps upfront costs low while letting owners expand capability over time. In
+practice, it’s similar to how smartphone users buy base models and add accessories later. This
+modularity not only keeps pricing flexible but also shortens production time since all trucks
+leave the factory in a standard configuration.
 
 ## Why It Resonates: A Shift in Consumer Priorities
 
-The overwhelming reservation numbers show Slate tapped into a latent demand. While premium EVs grab headlines, many Americans, especially in rural or working-class communities, need basic, affordable trucks for everyday use.
+The overwhelming reservation numbers show Slate tapped into a latent demand. While
+premium EVs grab headlines, many Americans, especially in rural or working-class communities,
+need basic, affordable trucks for everyday use.
 
-A fully-loaded Rivian or Lightning is overkill for someone hauling tools to a job site or running farm errands. By skipping luxury frills and software gimmicks, Slate made EV ownership approachable for a demographic that's often overlooked in the electrification conversation.
+A fully-loaded Rivian or Lightning is overkill for someone hauling tools to a job site or running
+farm errands. By skipping luxury frills and software gimmicks, Slate made EV ownership
+approachable for a demographic that’s often overlooked in the electrification conversation.
 
 ## Production Plans and Pricing Challenges
 
-Slate's Indiana plant is scheduled to begin building trucks in late 2026, with initial output capped to ensure quality control. Although federal EV tax credits initially helped keep the target price below $20,000, those incentives are set to expire, raising the effective base price closer to $27,500.
+Slate’s Indiana plant is scheduled to begin building trucks in late 2026, with initial output
+capped to ensure quality control. Although federal EV tax credits initially helped keep the target
+price below $20,000, those incentives are set to expire, raising the effective base price closer to
+$27,500.
 
 Despite this, Slate says it will still undercut competitors by a large margin thanks to:
 
-• Simplified manufacturing: Fewer parts and no complex infotainment systems
-• Vertical integration: In-house battery and drivetrain production
-• Volume-focused strategy: Scaling to 250,000 units annually within three years
+- Simplified manufacturing: Fewer parts and no complex infotainment systems  
+- Vertical integration: In-house battery and drivetrain production  
+- Volume-focused strategy: Scaling to 250,000 units annually within three years  
 
-Whether Slate can maintain margins at this price point remains a big question, but the startup argues that its lean design philosophy gives it a structural cost advantage over legacy automakers.
+Whether Slate can maintain margins at this price point remains a big question, but the startup
+argues that its lean design philosophy gives it a structural cost advantage over legacy
+automakers.
 
 ## A Potentially Massive Market Shift
 
-If Slate succeeds, the implications for the U.S. automotive market are huge. By proving that an EV pickup can be profitable at mass-market pricing, it could force established players to rethink their strategies.
+If Slate succeeds, the implications for the U.S. automotive market are huge. By proving that an
+EV pickup can be profitable at mass-market pricing, it could force established players to
+rethink their strategies.
 
-Automakers like Ford, GM and Stellantis currently rely on high-margin trucks to fund their EV transitions. An affordable competitor would pressure them to produce simpler, cheaper EV models, much like Japanese automakers disrupted Detroit in the 1970s with efficient, budget-friendly cars.
+Automakers like Ford, GM and Stellantis currently rely on high-margin trucks to fund their EV
+transitions. An affordable competitor would pressure them to produce simpler, cheaper EV
+models, much like Japanese automakers disrupted Detroit in the 1970s with efficient, budget-
+friendly cars.
 
-EV adoption overall could accelerate. One of the biggest barriers to electrification is cost. A reliable electric truck at $20K, or even under $30K, brings EVs within reach of millions of new buyers, especially those who've resisted the transition due to high entry prices.
+EV adoption overall could accelerate. One of the biggest barriers to electrification is cost. A
+reliable electric truck at $20K, or even under $30K, brings EVs within reach of millions of new
+buyers, especially those who’ve resisted the transition due to high entry prices.
 
 ## Challenges on the Road Ahead
 
-Slate's disruptive vision doesn't come without hurdles:
+Slate’s disruptive vision doesn’t come without hurdles:
 
-• Production Scaling: Building a new truck plant and supply chain from scratch is notoriously difficult.
-• Range Limitations: A base range of just over 200 miles could be a sticking point for some buyers.
-• Competition: Major automakers may fast-track affordable EV pickups in response, leveraging existing dealer networks and brand loyalty.
-• Durability Perception: Stripped-down interiors and minimal electronics might be misinterpreted as "cheap," rather than intentional simplicity.
+- Production Scaling: Building a new truck plant and supply chain from scratch is notoriously difficult.  
+- Range Limitations: A base range of just over 200 miles could be a sticking point for some buyers.  
+- Competition: Major automakers may fast-track affordable EV pickups in response, leveraging existing dealer networks and brand loyalty.  
+- Durability Perception: Stripped-down interiors and minimal electronics might be misinterpreted as “cheap,” rather than intentional simplicity.  
 
-How Slate navigates these issues will determine if its truck becomes a true market shaker or a niche product.
+How Slate navigates these issues will determine if its truck becomes a true market shaker or a
+niche product.
 
 ## Conclusion
 
-Slate Auto's $20K minimalist EV truck is more than a budget-friendly pickup – it's a challenge to the entire way electric vehicles are designed, priced and sold in the U.S. By cutting out luxuries and focusing on essential utility, Slate is making EV ownership realistic for working Americans and everyday drivers who've been priced out of the market.
+Slate Auto’s $20K minimalist EV truck is more than a budget-friendly pickup – it’s a challenge to
+the entire way electric vehicles are designed, priced and sold in the U.S. By cutting out luxuries
+and focusing on essential utility, Slate is making EV ownership realistic for working Americans
+and everyday drivers who’ve been priced out of the market.
 
-If production meets expectations and consumer demand holds, Slate could reshape not only the electric truck segment but also the broader EV adoption curve. In a market saturated with premium models and tech-laden designs, Slate's no-frills approach feels not just refreshing – but potentially revolutionary.`
-},
+If production meets expectations and consumer demand holds, Slate could reshape not only
+the electric truck segment but also the broader EV adoption curve. In a market saturated with
+premium models and tech-laden designs, Slate’s no-frills approach feels not just refreshing –
+but potentially revolutionary.`
+}
+,
  {
     id: "slate-auto-minimalist-ev-truck",
     title: "Why Slate Auto's Minimalist $20K EV Truck May Be the Biggest Disruption in the U.S.",

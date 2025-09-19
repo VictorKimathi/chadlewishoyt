@@ -1,9 +1,8 @@
 // components/MarkdownRenderer.tsx
 import React from 'react';
 import ReactMarkdown from 'react-markdown';
+import remarkGfm from 'remark-gfm'; // ✅ import this
 
-// Define the custom components for rendering markdown elements with Tailwind CSS classes.
-// This object is moved from the page component to make this renderer self-contained.
 const MarkdownComponents = {
   h1: ({ children }: any) => (
     <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6 leading-tight">
@@ -26,9 +25,7 @@ const MarkdownComponents = {
     </p>
   ),
   ul: ({ children }: any) => (
-    <ul className="list-none mb-6 space-y-2">
-      {children}
-    </ul>
+    <ul className="list-none mb-6 space-y-2">{children}</ul>
   ),
   li: ({ children }: any) => (
     <li className="text-lg text-gray-700 flex items-start">
@@ -44,9 +41,7 @@ const MarkdownComponents = {
     </div>
   ),
   thead: ({ children }: any) => (
-    <thead className="bg-gray-50">
-      {children}
-    </thead>
+    <thead className="bg-gray-50">{children}</thead>
   ),
   th: ({ children }: any) => (
     <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider border-b border-gray-200">
@@ -59,14 +54,10 @@ const MarkdownComponents = {
     </td>
   ),
   strong: ({ children }: any) => (
-    <strong className="font-semibold text-gray-900">
-      {children}
-    </strong>
+    <strong className="font-semibold text-gray-900">{children}</strong>
   ),
   em: ({ children }: any) => (
-    <em className="italic text-gray-800">
-      {children}
-    </em>
+    <em className="italic text-gray-800">{children}</em>
   ),
   blockquote: ({ children }: any) => (
     <blockquote className="border-l-4 border-blue-600 pl-6 my-6 italic text-gray-700 bg-gray-50 py-4 rounded-r-lg">
@@ -84,17 +75,13 @@ interface MarkdownRendererProps {
   content: string;
 }
 
-/**
- * A reusable component to render markdown content with custom styling.
- * It uses the 'react-markdown' library and applies Tailwind CSS classes
- * for a consistent look and feel across the blog.
- * * Note: Ensure you have 'react-markdown' installed:
- * npm install react-markdown
- */
 export default function MarkdownRenderer({ content }: MarkdownRendererProps) {
   return (
     <div className="prose prose-lg max-w-none">
-      <ReactMarkdown components={MarkdownComponents}>
+      <ReactMarkdown
+        remarkPlugins={[remarkGfm]} // ✅ enable GFM
+        components={MarkdownComponents}
+      >
         {content}
       </ReactMarkdown>
     </div>
