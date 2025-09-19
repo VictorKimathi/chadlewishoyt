@@ -9,7 +9,7 @@ const blogPosts = [
     image: "/MOTOR1.jpg?height=300&width=500",
     date: "April 20, 2025",
     readTime: "7 min read",
-    href:"Old-School Cool_New_Age_Tech"
+    href:"Old-School Cool_New_Age_Tech.pdf"
   },
    {
     id: "are-ev-muscle-cars-future-or-phase",
@@ -29,6 +29,7 @@ const blogPosts = [
     image: "/carhome.jpg?height=300&width=500",
     date: "July 5, 2025",
     readTime: "9 min read",
+    href:"Old-School Cool_New_Age_Tech.pdf"
   },
   {
   "id": "car-names-that-shouldve-been-laughed-out-of-the-room",
@@ -38,6 +39,8 @@ const blogPosts = [
   "date": "September 18, 2025",
   "readTime": "12 min read",
   "content": "There’s a difference between strange and stupid, and car companies cross that line more often than they realize. With the wrong name, a perfectly functional car becomes forgettable or mocked before it ever gets a chance. One bad name turns a decent coupe into a punchline. The industry has done it over and over. These aren’t rare slip-ups. They reflect how easily decisions get shaped by people too close to the process to hear how bad they sound to anyone else.\n\n### Ford Probe is still the benchmark for branding misfires\n\nFord didn’t stumble into the name “Probe.” It was a deliberate attempt to make a front-wheel-drive coupe sound sleek and high-tech. It borrowed its name from a line of Ford concept cars meant to showcase innovation. The car itself wasn’t bad. Developed with Mazda under Ford’s global platform strategy, it offered respectable performance for the time. It wasn’t fast, but it was agile and priced to move.\n\nBut none of that mattered once people heard the name. It didn’t sound like a car. It sounded like a hospital procedure. Ford had even considered positioning the Probe as the next-generation Mustang, a plan scrapped after backlash from purists and the public. Even drivers who liked the car had to grit their teeth every time they said what they drove. One awkward word on the trunk was enough to drown out every other aspect of the car’s design or engineering. It might have been aiming for a futuristic import fighter. Instead, it landed with a name nobody wanted to say out loud.\n\n### AMC Gremlin leaned into absurdity — and got away with it\n\nAMC needed a subcompact, and they needed it fast. Imports were gaining ground in the early ’70s, and the Big Three were scrambling to keep up. AMC’s answer was to rush a new design to market and give it a name that sounded like a mechanical failure. It didn’t sound mischievous. It sounded broken: fried wiring, stalling engines, and dash lights that wouldn’t shut off. It was a joke name, except AMC wasn’t joking.\n\nThe design didn’t help. The Gremlin looked like a Hornet that had been rear-ended and left that way. From day one, the car had a cartoon mascot and leaned into its own weirdness. AMC tried to sell the weirdness as rebellion. But buyers don’t want their car to sound cursed, and the name did more damage than the sheet metal ever could. Despite years of decent sales, the Gremlin became a punchline. It’s remembered less for what it was than what it was called. AMC went for bold in a market that was playing it safe. What they got was a car that people still talk about, just not the way they hoped.\n\n### The Mitsubishi Lettuce proves someone should’ve said no\n\nMitsubishi didn’t just greenlight a weird name. They called the car Lettuce and leaned in. Technically, it was a trim variant of the Mirage, but that didn’t stop the company from branding it like a tossed salad. There was no lettuce-green paint, no garden-themed marketing, and no clever pun in Japanese to save it. The name was simply... Lettuce. No one stopped it.\n\nWhat makes the Lettuce so baffling isn’t the car. It’s that no one in the room said, “Hold on.” Mitsubishi introduced it during the early ’90s, a time when Japanese automakers were experimenting wildly with kei cars and niche subcompacts. Some names like Pajero Mini or Nissan S-Cargo had at least some charm or internal logic. The Lettuce didn’t. It was plain, unremarkable, and best known for its name being memed decades later.\n\nUnlike the Gremlin or the Probe, the Lettuce didn’t provoke outrage or loyalist backlash. It just quietly existed with one of the most mockable names in automotive history. The car faded. The name didn’t. That disconnect between the utter blandness of the car and the surreal boldness of the name makes it feel less like branding and more like a dare."
+  ,
+  href:"Car_Names_That_Should’ve_Been_Laughed_Out_of_the_Room-3.pdf"
 },
 {
   "id": "slate-auto-minimalist-ev-truck",
@@ -53,7 +56,8 @@ const blogPosts = [
       "alt": "Slate Auto's minimalist EV truck",
       "caption": "Slate Auto's EV truck is designed to be a bare-bones, affordable workhorse."
     }
-  ]
+  ],
+  "href":"Car_Names_That_Should’ve_Been_Laughed_Out_of_the_Room-3.pdf"
 },
 {
   "id": "byd-megawatt-flash-chargers",
@@ -62,6 +66,7 @@ const blogPosts = [
       image: "/charger.jpg?height=300&width=500",
   "date": "November 2, 2025",
   "readTime": "15 min read",
+  "href":"All_About_BYD’s_Megawatt-2.pdf"
 },
 {
   "id": "vws-h1-2025-ev-boom",
@@ -70,6 +75,7 @@ const blogPosts = [
     image: "/voks.webp?height=300&width=500",
   "date": "September 18, 2025",
   "readTime": "12 min read",
+  "href":"VW’s_H1_2025_EV_Boom-2.pdf"
 },
 // hello
 
@@ -80,6 +86,7 @@ const blogPosts = [
     image: "/tesla.avif?height=300&width=500",
   "date": "November 20, 2025",
   "readTime": "10 min read",
+  "href":"Why_Tesla_Fans_Are_the_Flat-Earthers_of_the_Car_World-1.pdf"
 }
 
 ]
