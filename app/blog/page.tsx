@@ -11,9 +11,11 @@ const blogPosts = [
     readTime: "7 min read",
   },
    {
+    id: "are-ev-muscle-cars-future-or-phase",
+
     title: "Are EV Muscle Cars Like the Charger Daytona SRT the Future – or Just a Phase?Electric Dreams: The Future of Hypercars",
     excerpt: "For decades, muscle cars were defined by three things: big displacement, rear-wheel drive and a snarling V8 soundtrack. But the future is coming fast – and it’s electric. Leading the charge (literally) is Dodge, the most unapologetically aggressive muscle brand in America. With the unveiling of the Dodge Charger Daytona SRT EV, the company isn’t just introducing a new car – it’s launching an entirely new muscle era.",
-    image: "/carhome.jpg?height=300&width=500",
+    image: "/ev.jpg?height=300&width=500",
     date: "June 18, 2025",
     readTime: "10 min read",
     href: "Are_EV_Muscle_Cars_Like_the_Charger_Daytona_SRT_the_Future_or_Just_a_Phase",
