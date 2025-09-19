@@ -1,7 +1,8 @@
 // components/MarkdownRenderer.tsx
 import React from 'react';
 import ReactMarkdown from 'react-markdown';
-import remarkGfm from 'remark-gfm'; // ✅ import this
+import remarkGfm from 'remark-gfm';
+import rehypeRaw from 'rehype-raw'; // ✅ allows raw HTML inside markdown
 
 const MarkdownComponents = {
   h1: ({ children }: any) => (
@@ -69,6 +70,23 @@ const MarkdownComponents = {
       {children}
     </code>
   ),
+  img: ({ src, alt }: any) => (
+    <img
+      src={src}
+      alt={alt}
+      className="rounded-lg shadow-lg my-8 w-full"
+    />
+  ),
+  a: ({ href, children }: any) => (
+    <a
+      href={href}
+      target="_blank"
+      rel="noopener noreferrer"
+      className="text-blue-600 hover:underline"
+    >
+      {children}
+    </a>
+  ),
 };
 
 interface MarkdownRendererProps {
@@ -79,7 +97,8 @@ export default function MarkdownRenderer({ content }: MarkdownRendererProps) {
   return (
     <div className="prose prose-lg max-w-none">
       <ReactMarkdown
-        remarkPlugins={[remarkGfm]} // ✅ enable GFM
+        remarkPlugins={[remarkGfm]}
+        rehypePlugins={[rehypeRaw]} // ✅ allow inline HTML (your <span>)
         components={MarkdownComponents}
       >
         {content}
