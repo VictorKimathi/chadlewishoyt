@@ -35,14 +35,12 @@ export default function BlogPage() {
   >
     <div className="relative h-48 overflow-hidden">
       <Link href={`/blog/${post.id}`}>
-        <a>
-          <Image
-            src={post.image || "/carhome.jpg"}
-            alt={post.title}
-            fill
-            className="object-cover transition-transform duration-500 hover:scale-110"
-          />
-        </a>
+        <Image
+          src={post.image || "/carhome.jpg"}
+          alt={post.title}
+          fill
+          className="object-cover transition-transform duration-500 hover:scale-110"
+        />
       </Link>
     </div>
     <div className="p-6">
@@ -51,25 +49,26 @@ export default function BlogPage() {
         <span className="mx-2">•</span>
         <span>{post.readTime}</span>
       </div>
-      <Link href={`/blog/${post.id}`}>
-        <a className="text-xl font-bold mb-3 block hover:text-blue-600 transition-colors duration-300">
-          {post.title}
-        </a>
+      <Link
+        href={`/blog/${post.id}`}
+        className="text-xl font-bold mb-3 block hover:text-blue-600 transition-colors duration-300"
+      >
+        {post.title}
       </Link>
       <p className="text-gray-600 leading-relaxed">{post.excerpt}</p>
 
       {/* Read Article Button with explicit href */}
-      <Link href={`/blog/${post.id}`}>
-        <a
-          className="inline-block mt-4 text-blue-600 font-semibold hover:underline"
-          aria-label={`Read full article: ${post.title}`}
-        >
-          Read Article →
-        </a>
+      <Link
+        href={`/blog/${post.id}`}
+        aria-label={`Read full article: ${post.title}`}
+        className="inline-block mt-4 text-blue-600 font-semibold hover:underline"
+      >
+        Read Article →
       </Link>
     </div>
   </article>
 ))}
+
 
         </div>
       </section>
