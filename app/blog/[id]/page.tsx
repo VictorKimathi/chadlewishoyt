@@ -1,153 +1,106 @@
-import { notFound } from "next/navigation"
-import Image from "next/image"
-import Link from "next/link"
-import { ArrowLeft, Calendar, Clock } from "lucide-react"
+import { getBlogPost, getAllBlogPosts } from '../../../lib/blogData';
+import path from 'path';
+import fs from 'fs/promises';
+import Image from 'next/image';
+import { notFound } from 'next/navigation';
+import type { Metadata } from 'next';
 
-import { getBlogPost, getAllBlogPosts } from "../../../lib/blogData"
-import MarkdownRenderer from "../../../components/MarkdownRenderer"
-import ShareButton from "../../../components/ShareButton"
-
-// Props interface for the page component
-interface BlogPostPageProps {
+// This props type will be used by our page component
+type PostPageProps = {
   params: {
-    id: string
-  }
-}
+    id: string;
+  };
+};
 
-// This function generates static pages at build time for better performance.
-// It gets all post IDs and tells Next.js to pre-render them.
-export async function generateStaticParams() {
-  const posts = getAllBlogPosts()
-  return posts.map(post => ({
-    id: post.id,
-  }))
-}
+// --- 1. GENERATE METADATA (for SEO) ---
+// This function replaces the old <Head> component
+export async function generateMetadata({ params }: PostPageProps): Promise<Metadata> {
+  const post = getBlogPost(params.id);
 
-// The main page component, now an async Server Component
-export default async function BlogPostPage({ params }: BlogPostPageProps) {
-  // Await the params to access its properties
-  const { id } = await params;
-  
-  const post = getBlogPost(id)
-
-  // If no post is found for the given ID, render the 404 page.
   if (!post) {
-    notFound()
+    return {
+      title: 'Post Not Found',
+      description: 'The requested blog post could not be found.',
+    };
+  }
+
+  return {
+    title: post.title,
+    description: post.excerpt,
+  };
+}
+
+
+// --- 2. GENERATE STATIC PARAMS (for Static Site Generation) ---
+// This function tells Next.js which blog posts to build at build time.
+// It replaces the old getStaticPaths function.
+export async function generateStaticParams() {
+  const posts = getAllBlogPosts();
+  
+  // Defensive check: If the data source returns something invalid (e.g., due to a parsing error),
+  // we prevent a crash during the build process.
+  if (!posts || !Array.isArray(posts)) {
+    return [];
+  }
+  
+  return posts.map((post) => ({
+    id: post.id,
+  }));
+}
+
+
+// --- 3. THE PAGE COMPONENT ---
+// This is an async Server Component that fetches its own data.
+// It replaces the old page component and getStaticProps.
+export default async function PostPage({ params }: PostPageProps) {
+  const { id } = params;
+  const post = getBlogPost(id);
+
+  // If no post is found, show the 404 page
+  if (!post) {
+    notFound();
+  }
+
+  // Read the HTML content from the corresponding file
+  let htmlContent: string;
+  try {
+    const filePath = path.join(process.cwd(), 'public', post.content);
+    htmlContent = await fs.readFile(filePath, 'utf8');
+  } catch (error) {
+    console.error(`Could not read file for post "${id}":`, error);
+    // If the HTML file is missing, also show a 404 page
+    notFound();
   }
 
   return (
-    <div className="min-h-screen bg-white">
-      {/* Sticky Header with back navigation */}
-      <header className="bg-white border-b border-gray-200 sticky top-0 z-20">
-        <div className="max-w-4xl mx-auto px-6 py-4">
-          <Link
-            href="/blog"
-            className="inline-flex items-center text-gray-600 hover:text-blue-600 transition-colors duration-200 font-medium"
-          >
-            <ArrowLeft className="w-5 h-5 mr-2" />
-            Back to All Articles
-          </Link>
+    <article className="bg-white">
+      <div className="max-w-4xl mx-auto py-12 px-6">
+        <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">{post.title}</h1>
+        <div className="flex items-center text-gray-500 mb-8">
+          <span>{post.date}</span>
+          <span className="mx-2">•</span>
+          <span>{post.readTime}</span>
         </div>
-      </header>
-
-      <main>
-        {/* Hero Image Section */}
-        <div className="relative h-72 md:h-96 w-full">
-          <Image
-            src={post.image}
-            alt={post.title}
-            fill
-            className="object-cover"
-            priority // Prioritize loading the main article image
-          />
-          <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent" />
-        </div>
-
-        {/* Article Content */}
-        <article className="max-w-4xl mx-auto px-6 py-12">
-          {/* Article Meta Information (Date, Read Time, Share Button) */}
-          <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between mb-8 text-sm text-gray-500">
-            <div className="flex items-center space-x-4 mb-4 sm:mb-0">
-              <div className="flex items-center">
-                <Calendar className="w-4 h-4 mr-2" />
-                <span>{post.date}</span>
-              </div>
-              <div className="flex items-center">
-                <Clock className="w-4 h-4 mr-2" />
-                <span>{post.readTime}</span>
-              </div>
-            </div>
-            {/* The ShareButton is a Client Component handling its own state and events */}
-            <ShareButton title={post.title} text={post.excerpt} />
+        
+        {post.image && (
+          <div className="relative h-64 md:h-96 w-full mb-8 overflow-hidden">
+            <Image 
+              src={post.image}
+              alt={post.title}
+              fill
+              className="object-cover"
+              priority
+            />
           </div>
+        )}
 
-          {/* Article Title */}
-          <h1 className="text-4xl md:text-5xl font-extrabold text-gray-900 mb-8 leading-tight">
-            {post.title}
-          </h1>
-
-          {/* Article Body - Rendered by the MarkdownRenderer component */}
-          <MarkdownRenderer content={post.content} />
-
-          {/* Additional Images Section (if any) */}
-          {post.images && post.images.length > 0 && (
-            <div className="mt-12 space-y-8">
-              {post.images.map((img, index) => (
-                <figure key={index} className="text-center">
-                  <div className="relative h-96 rounded-lg overflow-hidden border border-gray-200">
-                    <Image
-                      src={img.src}
-                      alt={img.alt}
-                      fill
-                      className="object-cover"
-                    />
-                  </div>
-                  {img.caption && (
-                    <figcaption className="mt-3 text-sm text-gray-600 italic">
-                      {img.caption}
-                    </figcaption>
-                  )}
-                </figure>
-              ))}
-            </div>
-          )}
-
-          {/* Author Section */}
-          <div className="mt-16 pt-8 border-t border-gray-200">
-            <div className="bg-gray-50 rounded-lg p-6">
-              <h3 className="text-xl font-bold text-gray-900 mb-2">
-                About the Author
-              </h3>
-              <p className="text-gray-700">
-                Our team brings decades of combined experience in automotive
-                journalism, engineering, and industry analysis to deliver
-                insightful content about the latest trends and innovations in
-                the automotive world.
-              </p>
-            </div>
-          </div>
-
-          {/* Navigation to other posts */}
-          <div className="mt-12 pt-8 border-t border-gray-200">
-            <h3 className="text-2xl font-bold text-gray-900 mb-6">
-              Continue Reading
-            </h3>
-            <div className="grid grid-cols-1 gap-6">
-              <Link
-                href="/blog"
-                className="group block bg-gray-50 rounded-lg p-6 hover:bg-gray-100 hover:shadow-md transition-all duration-200"
-              >
-                <h4 className="font-semibold text-lg text-gray-900 group-hover:text-blue-600 mb-2">
-                  Explore More Articles
-                </h4>
-                <p className="text-gray-600 text-sm">
-                  Discover more insights and analysis from our automotive blog.
-                </p>
-              </Link>
-            </div>
-          </div>
-        </article>
-      </main>
-    </div>
-  )
+        {/* Render the fetched HTML content */}
+        <div 
+          className="prose lg:prose-xl max-w-none" 
+          dangerouslySetInnerHTML={{ __html: htmlContent }} 
+        />
+      </div>
+    </article>
+  );
 }
+
