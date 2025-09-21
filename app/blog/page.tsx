@@ -28,31 +28,49 @@ export default function BlogPage() {
       {/* Blog Posts Grid */}
       <section className="max-w-7xl mx-auto px-6 py-20">
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-          {blogPosts.map((post) => (
-            <Link key={post.id} href={`/blog/${post.id}`} className="group">
-              <article className="bg-white border border-gray-200 overflow-hidden transition-transform duration-300 group-hover:-translate-y-2">
-                <div className="relative h-48 overflow-hidden">
-                  <Image
-                    src={post.image || "/carhome.jpg"}
-                    alt={post.title}
-                    fill
-                    className="object-cover transition-transform duration-500 group-hover:scale-110"
-                  />
-                </div>
-                <div className="p-6">
-                  <div className="flex items-center text-sm text-gray-500 mb-3">
-                    <span>{post.date}</span>
-                    <span className="mx-2">•</span>
-                    <span>{post.readTime}</span>
-                  </div>
-                  <h2 className="text-xl font-bold mb-3 group-hover:text-blue-600 transition-colors duration-300">
-                    {post.title}
-                  </h2>
-                  <p className="text-gray-600 leading-relaxed">{post.excerpt}</p>
-                </div>
-              </article>
-            </Link>
-          ))}
+{blogPosts.map((post) => (
+  <article
+    key={post.id}
+    className="bg-white border border-gray-200 overflow-hidden transition-transform duration-300 hover:-translate-y-2"
+  >
+    <div className="relative h-48 overflow-hidden">
+      <Link href={`/blog/${post.id}`}>
+        <a>
+          <Image
+            src={post.image || "/carhome.jpg"}
+            alt={post.title}
+            fill
+            className="object-cover transition-transform duration-500 hover:scale-110"
+          />
+        </a>
+      </Link>
+    </div>
+    <div className="p-6">
+      <div className="flex items-center text-sm text-gray-500 mb-3">
+        <span>{post.date}</span>
+        <span className="mx-2">•</span>
+        <span>{post.readTime}</span>
+      </div>
+      <Link href={`/blog/${post.id}`}>
+        <a className="text-xl font-bold mb-3 block hover:text-blue-600 transition-colors duration-300">
+          {post.title}
+        </a>
+      </Link>
+      <p className="text-gray-600 leading-relaxed">{post.excerpt}</p>
+
+      {/* Read Article Button with explicit href */}
+      <Link href={`/blog/${post.id}`}>
+        <a
+          className="inline-block mt-4 text-blue-600 font-semibold hover:underline"
+          aria-label={`Read full article: ${post.title}`}
+        >
+          Read Article →
+        </a>
+      </Link>
+    </div>
+  </article>
+))}
+
         </div>
       </section>
     </div>
