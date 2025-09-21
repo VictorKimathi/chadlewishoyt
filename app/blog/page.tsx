@@ -1,11 +1,19 @@
-// pages/blog/index.tsx
-
 import Image from "next/image";
 import Link from "next/link";
 import { getAllBlogPosts } from "../../lib/blogData";
 
-export default function BlogPage() {
-  const blogPosts = getAllBlogPosts();
+type BlogPost = {
+  id: string;
+  title: string;
+  excerpt: string;
+  date: string;
+  readTime: string;
+  image?: string;
+};
+
+export default async function BlogPage() {
+  // Fetch the posts here — async supported in server components
+  const blogPosts: BlogPost[] = await getAllBlogPosts();
 
   return (
     <div className="min-h-screen">
@@ -28,48 +36,46 @@ export default function BlogPage() {
       {/* Blog Posts Grid */}
       <section className="max-w-7xl mx-auto px-6 py-20">
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-{blogPosts.map((post) => (
-  <article
-    key={post.id}
-    className="bg-white border border-gray-200 overflow-hidden transition-transform duration-300 hover:-translate-y-2"
-  >
-    <div className="relative h-48 overflow-hidden">
-      <Link href={`/blog/${post.id}`}>
-        <Image
-          src={post.image || "/carhome.jpg"}
-          alt={post.title}
-          fill
-          className="object-cover transition-transform duration-500 hover:scale-110"
-        />
-      </Link>
-    </div>
-    <div className="p-6">
-      <div className="flex items-center text-sm text-gray-500 mb-3">
-        <span>{post.date}</span>
-        <span className="mx-2">•</span>
-        <span>{post.readTime}</span>
-      </div>
-      <Link
-        href={`/blog/${post.id}`}
-        className="text-xl font-bold mb-3 block hover:text-blue-600 transition-colors duration-300"
-      >
-        {post.title}
-      </Link>
-      <p className="text-gray-600 leading-relaxed">{post.excerpt}</p>
+          {blogPosts.map((post) => (
+            <article
+              key={post.id}
+              className="bg-white border border-gray-200 overflow-hidden transition-transform duration-300 hover:-translate-y-2"
+            >
+              <div className="relative h-48 overflow-hidden">
+                <Link href={`/blog/${post.id}`}>
+                  <Image
+                    src={post.image || "/carhome.jpg"}
+                    alt={post.title}
+                    fill
+                    className="object-cover transition-transform duration-500 hover:scale-110"
+                  />
+                </Link>
+              </div>
+              <div className="p-6">
+                <div className="flex items-center text-sm text-gray-500 mb-3">
+                  <span>{post.date}</span>
+                  <span className="mx-2">•</span>
+                  <span>{post.readTime}</span>
+                </div>
+                <Link
+                  href={`/blog/${post.id}`}
+                  className="text-xl font-bold mb-3 block hover:text-blue-600 transition-colors duration-300"
+                >
+                  {post.title}
+                </Link>
+                <p className="text-gray-600 leading-relaxed">{post.excerpt}</p>
 
-      {/* Read Article Button with explicit href */}
-      <Link
-        href={`/blog/${post.id}`}
-        aria-label={`Read full article: ${post.title}`}
-        className="inline-block mt-4 text-blue-600 font-semibold hover:underline"
-      >
-        Read Article →
-      </Link>
-    </div>
-  </article>
-))}
-
-
+                {/* Read Article Button */}
+                <Link
+                  href={`/blog/${post.id}`}
+                  aria-label={`Read full article: ${post.title}`}
+                  className="inline-block mt-4 text-blue-600 font-semibold hover:underline"
+                >
+                  Read Article →
+                </Link>
+              </div>
+            </article>
+          ))}
         </div>
       </section>
     </div>
